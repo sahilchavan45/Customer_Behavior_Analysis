@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,city,state,Age,Gender,category,sub_category,product_name,price,quantity,discount_pct,payment_mode,delivery_days,return_flag,rating,marketing_channel
+OD1001,1/1/2024,C202,Bangalore,Karnataka,56,Female,Fashion,Decor,Men T-Shirt,52117,1,15,COD,4,No,1,Referral
+OD1002,1/2/2024,C535,Mumbai,Delhi,46,Male,Fashion,Furniture,Prestige Cooker,18822,2,20,UPI,2,No,3,Ads
+OD1003,1/3/2024,C960,Delhi,Delhi,32,Female,Home,Kitchen,Boat Earphones,18518,3,15,COD,2,No,1,Organic
+OD1004,1/4/2024,C370,Jaipur,Karnataka,60,Male,Home,Furniture,Prestige Cooker,41362,1,40,UPI,6,No,1,Referral
+OD1005,1/5/2024,C206,Chennai,West Bengal,25,Female,Home,Accessories,Samsung Phone,10782,1,40,Card,6,No,,Organic
+OD1006,1/6/2024,C171,Pune,Tamil Nadu,38,Female,Fashion,Mobile,Wall Clock,18778,3,20,Card,5,No,5,Ads
+OD1007,1/7/2024,C800,Ahmedabad,Telangana,56,Female,Fashion,Clothing,Office Chair,47498,3,0,UPI,2,No,4,Ads
+OD1008,1/8/2024,C120,Kolkata,Delhi,36,Female,Home,Mobile,Office Chair,63279,3,0,NetBanking,5,No,1,Organic
+OD1009,1/9/2024,C714,Nagpur,Tamil Nadu,40,Male,Electronics,Footwear,Prestige Cooker,23407,1,20,Card,4,No,3,Referral
+OD1010,1/10/2024,C221,Bangalore,Karnataka,28,Female,Fashion,Mobile,Wall Clock,62083,3,20,COD,3,No,4,Referral
+OD1011,1/11/2024,C566,Pune,Rajasthan,28,Male,Electronics,Furniture,Wall Clock,50724,3,15,UPI,2,No,5,Organic
+OD1012,1/12/2024,C314,Hyderabad,Tamil Nadu,41,Female,Electronics,Footwear,Redmi Phone,38451,2,20,COD,7,Yes,1,Ads
+OD1013,1/13/2024,C430,Delhi,Gujarat,53,Male,Fashion,Footwear,Samsung Phone,38162,2,5,NetBanking,8,No,4,Email
+OD1014,1/14/2024,C558,Nagpur,Maharashtra,57,Female,Fashion,Decor,Men T-Shirt,61880,1,0,UPI,4,No,,Organic
+OD1015,1/15/2024,C187,Ahmedabad,Delhi,41,Male,Electronics,Decor,Wall Clock,48428,2,0,Card,2,No,4,Organic
+OD1016,1/16/2024,C472,Pune,Karnataka,20,Male,Electronics,Footwear,Nike Shoes,9842,2,30,COD,8,No,4,Organic
+OD1017,1/17/2024,C199,Nagpur,Rajasthan,39,Male,Home,Clothing,Office Chair,40290,3,20,Card,7,No,3,Ads
+OD1018,1/18/2024,C971,Pune,Telangana,19,Male,Home,Decor,Nike Shoes,29633,3,10,Card,6,No,5,Referral
+OD1019,1/19/2024,C763,Delhi,Rajasthan,41,Female,Fashion,Mobile,Samsung Phone,47600,2,10,UPI,5,Yes,,Ads
+OD1020,1/20/2024,C230,Ahmedabad,West Bengal,47,Male,Home,Furniture,Wall Clock,69942,2,20,COD,6,No,1,Organic
+OD1021,1/21/2024,C761,Hyderabad,Gujarat,55,Male,Home,Mobile,Boat Earphones,58029,2,5,NetBanking,3,No,2,Ads
+OD1022,1/22/2024,C408,Mumbai,Karnataka,19,Male,Home,Clothing,Office Chair,47298,1,10,Card,6,Yes,3,Ads
+OD1023,1/23/2024,C869,Chennai,Telangana,38,Female,Home,Accessories,Redmi Phone,5326,1,30,UPI,2,Yes,1,Organic
+OD1024,1/24/2024,C443,Hyderabad,West Bengal,50,Female,Electronics,Laptop,Redmi Phone,63152,1,40,UPI,7,No,1,Ads
+OD1025,1/25/2024,C591,Mumbai,West Bengal,29,Male,Fashion,Furniture,Women Kurti,14198,2,20,NetBanking,6,Yes,4,Email
+OD1026,1/26/2024,C513,Bangalore,Karnataka,39,Male,Home,Decor,HP Laptop,5812,2,5,UPI,2,No,,Ads
+OD1027,1/27/2024,C905,Jaipur,Gujarat,42,Female,Electronics,Furniture,Wall Clock,14097,1,5,Card,3,Yes,2,Ads
+OD1028,1/28/2024,C485,Kolkata,Tamil Nadu,44,Female,Electronics,Mobile,Samsung Phone,29306,1,15,UPI,8,No,3,Referral
+OD1029,1/29/2024,C291,Kolkata,Tamil Nadu,59,Male,Electronics,Laptop,Office Chair,69889,2,5,COD,7,No,2,Referral
+OD1030,1/30/2024,C376,Chennai,West Bengal,45,Male,Home,Kitchen,HP Laptop,45725,3,10,COD,6,No,1,Organic
+OD1031,1/31/2024,C260,Ahmedabad,Tamil Nadu,33,Female,Home,Kitchen,Samsung Phone,60049,1,40,Card,5,Yes,2,Organic
+OD1032,2/1/2024,C559,Delhi,Maharashtra,32,Male,Fashion,Decor,Prestige Cooker,4057,2,10,COD,5,No,2,Referral
+OD1033,2/2/2024,C413,Ahmedabad,West Bengal,20,Male,Home,Clothing,Wall Clock,50612,2,20,NetBanking,7,No,5,Email
+OD1034,2/3/2024,C121,Delhi,West Bengal,54,Female,Home,Kitchen,Men T-Shirt,53498,3,40,UPI,5,No,1,Ads
+OD1035,2/4/2024,C352,Ahmedabad,Telangana,24,Female,Electronics,Furniture,Men T-Shirt,56377,2,20,Card,6,No,2,Email
+OD1036,2/5/2024,C847,Jaipur,Tamil Nadu,38,Male,Fashion,Kitchen,Wall Clock,36842,2,5,NetBanking,6,Yes,2,Email
+OD1037,2/6/2024,C956,Bangalore,Gujarat,26,Male,Home,Accessories,Women Kurti,58718,1,30,UPI,7,No,4,Referral
+OD1038,2/7/2024,C660,Bangalore,West Bengal,56,Female,Home,Accessories,Women Kurti,35685,1,0,NetBanking,6,No,,Organic
+OD1039,2/8/2024,C574,Mumbai,Rajasthan,35,Female,Electronics,Decor,Men T-Shirt,37465,3,40,Card,8,No,2,Ads
+OD1040,2/9/2024,C158,Nagpur,Gujarat,21,Male,Electronics,Accessories,Boat Earphones,34268,3,15,Card,2,Yes,5,Organic
+OD1041,2/10/2024,C610,Bangalore,Maharashtra,42,Female,Home,Kitchen,Office Chair,53717,2,0,NetBanking,3,No,1,Email
+OD1042,2/11/2024,C781,Bangalore,Telangana,31,Female,Fashion,Clothing,Men T-Shirt,19728,1,5,UPI,8,No,3,Email
+OD1043,2/12/2024,C575,Hyderabad,Karnataka,26,Male,Fashion,Footwear,Boat Earphones,28376,3,5,COD,8,No,1,Organic
+OD1044,2/13/2024,C799,Hyderabad,Gujarat,43,Male,Electronics,Footwear,HP Laptop,58500,3,0,COD,5,No,4,Organic
+OD1045,2/14/2024,C882,Mumbai,West Bengal,19,Male,Electronics,Decor,Boat Earphones,38583,3,15,NetBanking,2,Yes,1,Referral
+OD1046,2/15/2024,C289,Nagpur,Maharashtra,37,Female,Home,Laptop,HP Laptop,17305,2,40,Card,7,No,2,Organic
+OD1047,2/16/2024,C786,Chennai,Delhi,45,Male,Electronics,Footwear,Samsung Phone,37533,1,40,UPI,9,No,,Organic
+OD1048,2/17/2024,C662,Hyderabad,Maharashtra,24,Male,Home,Footwear,Nike Shoes,40816,3,0,UPI,5,No,1,Referral
+OD1049,2/18/2024,C975,Chennai,Maharashtra,25,Male,Fashion,Accessories,Samsung Phone,55967,1,20,Card,2,No,4,Organic
+OD1050,2/19/2024,C666,Pune,Telangana,52,Male,Fashion,Accessories,Men T-Shirt,19593,3,10,COD,6,No,3,Email
+OD1051,2/20/2024,C343,Hyderabad,Karnataka,31,Female,Home,Kitchen,HP Laptop,58295,3,30,UPI,7,No,1,Organic
+OD1052,2/21/2024,C931,Jaipur,Delhi,34,Female,Electronics,Decor,Men T-Shirt,11088,1,20,NetBanking,9,No,2,Ads
+OD1053,2/22/2024,C604,Nagpur,Tamil Nadu,53,Female,Fashion,Laptop,Wall Clock,57720,1,40,COD,7,No,4,Email
+OD1054,2/23/2024,C230,Mumbai,Tamil Nadu,57,Female,Electronics,Decor,Office Chair,2156,1,10,NetBanking,9,No,5,Referral
+OD1055,2/24/2024,C584,Pune,Gujarat,21,Male,Fashion,Mobile,Redmi Phone,40030,2,30,COD,9,Yes,4,Email
+OD1056,2/25/2024,C918,Nagpur,Maharashtra,19,Female,Home,Furniture,Men T-Shirt,52726,3,30,Card,5,No,,Referral
+OD1057,2/26/2024,C746,Jaipur,Rajasthan,23,Male,Home,Laptop,Office Chair,3663,2,30,NetBanking,6,No,2,Ads
+OD1058,2/27/2024,C120,Nagpur,Telangana,59,Female,Home,Laptop,Boat Earphones,41746,1,5,NetBanking,5,No,3,Ads
+OD1059,2/28/2024,C940,Jaipur,Rajasthan,21,Male,Fashion,Clothing,Samsung Phone,20100,3,30,Card,9,No,5,Email
+OD1060,2/29/2024,C266,Jaipur,Telangana,46,Male,Electronics,Decor,Boat Earphones,51098,2,15,NetBanking,9,No,3,Organic
+OD1061,3/1/2024,C373,Chennai,Tamil Nadu,35,Male,Electronics,Kitchen,Redmi Phone,5051,3,0,COD,4,No,4,Email
+OD1062,3/2/2024,C487,Ahmedabad,Gujarat,43,Female,Electronics,Clothing,HP Laptop,9916,2,40,UPI,2,Yes,2,Email
+OD1063,3/3/2024,C700,Pune,Gujarat,51,Female,Fashion,Laptop,Wall Clock,59078,1,15,UPI,4,Yes,5,Ads
+OD1064,3/4/2024,C415,Nagpur,Gujarat,27,Male,Fashion,Laptop,Office Chair,68706,2,0,Card,2,No,4,Referral
+OD1065,3/5/2024,C113,Delhi,Delhi,53,Male,Fashion,Laptop,Wall Clock,4221,3,20,COD,3,Yes,,Email
+OD1066,3/6/2024,C341,Pune,Karnataka,31,Male,Fashion,Footwear,Nike Shoes,40530,3,20,NetBanking,8,No,4,Organic
+OD1067,3/7/2024,C876,Ahmedabad,Delhi,48,Female,Fashion,Decor,Men T-Shirt,21937,3,0,NetBanking,7,No,3,Ads
+OD1068,3/8/2024,C445,Pune,West Bengal,32,Female,Electronics,Furniture,HP Laptop,59318,3,15,UPI,5,No,2,Email
+OD1069,3/9/2024,C664,Bangalore,West Bengal,25,Male,Fashion,Furniture,Nike Shoes,44355,1,0,NetBanking,3,Yes,,Email
+OD1070,3/10/2024,C997,Delhi,Rajasthan,31,Female,Fashion,Clothing,Prestige Cooker,34075,2,30,UPI,3,No,4,Organic
+OD1071,3/11/2024,C439,Ahmedabad,Karnataka,40,Female,Electronics,Laptop,Men T-Shirt,42437,1,5,Card,7,Yes,1,Email
+OD1072,3/12/2024,C191,Chennai,Tamil Nadu,57,Male,Fashion,Furniture,Boat Earphones,49527,1,40,NetBanking,7,No,3,Email
+OD1073,3/13/2024,C466,Nagpur,Karnataka,38,Female,Electronics,Accessories,Samsung Phone,60306,1,20,COD,2,No,4,Email
+OD1074,3/14/2024,C554,Kolkata,Telangana,33,Female,Electronics,Decor,Office Chair,50376,3,40,NetBanking,4,No,4,Email
+OD1075,3/15/2024,C527,Ahmedabad,West Bengal,35,Female,Home,Furniture,Redmi Phone,43960,3,5,UPI,6,No,2,Organic
+OD1076,3/16/2024,C608,Mumbai,Maharashtra,41,Male,Home,Kitchen,Redmi Phone,40968,3,30,Card,2,Yes,,Email
+OD1077,3/17/2024,C875,Nagpur,Maharashtra,43,Female,Home,Decor,Boat Earphones,20934,2,30,UPI,6,No,1,Email
+OD1078,3/18/2024,C134,Ahmedabad,Tamil Nadu,42,Male,Home,Kitchen,Women Kurti,14690,3,20,NetBanking,3,Yes,2,Email
+OD1079,3/19/2024,C305,Bangalore,Telangana,58,Female,Fashion,Furniture,Redmi Phone,27885,2,20,UPI,6,No,4,Ads
+OD1080,3/20/2024,C180,Kolkata,Rajasthan,46,Male,Home,Accessories,Office Chair,32220,3,30,UPI,4,Yes,2,Organic
+OD1081,3/21/2024,C661,Bangalore,Delhi,32,Female,Electronics,Kitchen,Boat Earphones,55285,3,10,Card,2,No,2,Ads
+OD1082,3/22/2024,C971,Kolkata,Telangana,18,Female,Fashion,Footwear,HP Laptop,14203,1,40,COD,9,No,5,Ads
+OD1083,3/23/2024,C487,Mumbai,Maharashtra,42,Female,Home,Furniture,Redmi Phone,57134,1,5,NetBanking,7,No,,Organic
+OD1084,3/24/2024,C101,Nagpur,Maharashtra,24,Female,Electronics,Footwear,Wall Clock,2622,1,40,Card,9,No,2,Ads
+OD1085,3/25/2024,C489,Chennai,Rajasthan,26,Female,Fashion,Furniture,Boat Earphones,63492,2,5,COD,4,No,3,Ads
+OD1086,3/26/2024,C665,Bangalore,West Bengal,41,Female,Fashion,Mobile,Office Chair,25915,2,10,UPI,8,Yes,2,Ads
+OD1087,3/27/2024,C205,Bangalore,Telangana,18,Female,Home,Mobile,Wall Clock,2313,3,15,COD,4,No,1,Organic
+OD1088,3/28/2024,C871,Jaipur,Telangana,25,Female,Fashion,Mobile,Men T-Shirt,50757,2,5,UPI,8,Yes,4,Email
+OD1089,3/29/2024,C921,Kolkata,Maharashtra,41,Male,Electronics,Kitchen,Men T-Shirt,17007,3,40,UPI,2,No,3,Referral
+OD1090,3/30/2024,C576,Hyderabad,Delhi,28,Female,Fashion,Footwear,Redmi Phone,36198,2,0,Card,7,No,2,Referral
+OD1091,3/31/2024,C802,Nagpur,Tamil Nadu,34,Female,Electronics,Footwear,Wall Clock,46834,2,30,UPI,4,No,1,Organic
+OD1092,4/1/2024,C501,Kolkata,Gujarat,25,Female,Fashion,Footwear,Samsung Phone,47305,2,30,Card,9,No,4,Referral
+OD1093,4/2/2024,C829,Jaipur,Tamil Nadu,52,Male,Home,Accessories,Men T-Shirt,64267,1,10,COD,8,No,3,Organic
+OD1094,4/3/2024,C655,Pune,Telangana,52,Female,Electronics,Footwear,Samsung Phone,36238,2,5,COD,7,No,1,Organic
+OD1095,4/4/2024,C261,Kolkata,Tamil Nadu,50,Female,Fashion,Accessories,HP Laptop,35284,1,15,UPI,5,Yes,,Referral
+OD1096,4/5/2024,C301,Chennai,Maharashtra,22,Female,Fashion,Mobile,Boat Earphones,32479,1,5,Card,5,No,5,Ads
+OD1097,4/6/2024,C369,Nagpur,Maharashtra,59,Female,Fashion,Mobile,Nike Shoes,2108,2,30,UPI,5,No,5,Email
+OD1098,4/7/2024,C962,Jaipur,Rajasthan,56,Female,Electronics,Kitchen,Office Chair,66752,3,20,Card,6,No,3,Referral
+OD1099,4/8/2024,C915,Pune,Telangana,58,Female,Electronics,Furniture,Boat Earphones,28640,3,0,Card,4,No,1,Referral
+OD1100,4/9/2024,C370,Delhi,Rajasthan,45,Female,Electronics,Mobile,Office Chair,30508,3,10,Card,2,Yes,4,Referral
+OD1101,4/10/2024,C555,Jaipur,Telangana,24,Male,Home,Furniture,Wall Clock,7281,2,20,COD,9,No,1,Referral
+OD1102,4/11/2024,C561,Delhi,Gujarat,26,Female,Home,Furniture,HP Laptop,26432,3,40,Card,2,No,5,Organic
+OD1103,4/12/2024,C826,Nagpur,Gujarat,25,Male,Electronics,Decor,Prestige Cooker,8806,1,15,COD,6,Yes,3,Organic
+OD1104,4/13/2024,C351,Bangalore,West Bengal,29,Male,Fashion,Kitchen,Redmi Phone,38845,3,20,Card,2,No,,Email
+OD1105,4/14/2024,C801,Jaipur,Telangana,51,Female,Home,Laptop,Office Chair,51271,2,40,COD,8,No,1,Email
+OD1106,4/15/2024,C395,Mumbai,Delhi,50,Female,Electronics,Laptop,Office Chair,40648,3,20,NetBanking,5,No,5,Referral
+OD1107,4/16/2024,C824,Delhi,Tamil Nadu,40,Female,Fashion,Clothing,Wall Clock,28025,1,15,COD,9,No,4,Referral
+OD1108,4/17/2024,C819,Chennai,Telangana,41,Female,Home,Decor,Samsung Phone,68976,2,20,COD,4,No,3,Referral
+OD1109,4/18/2024,C848,Mumbai,Karnataka,54,Male,Fashion,Kitchen,Boat Earphones,6194,3,10,UPI,2,No,2,Email
+OD1110,4/19/2024,C437,Ahmedabad,West Bengal,52,Female,Fashion,Clothing,Prestige Cooker,39668,2,30,Card,2,No,1,Referral
+OD1111,4/20/2024,C978,Ahmedabad,Karnataka,57,Male,Fashion,Clothing,Women Kurti,48446,2,5,NetBanking,3,No,4,Ads
+OD1112,4/21/2024,C152,Pune,Maharashtra,39,Male,Fashion,Decor,Redmi Phone,47723,2,20,UPI,3,Yes,2,Email
+OD1113,4/22/2024,C891,Bangalore,Gujarat,44,Female,Home,Laptop,Nike Shoes,46364,3,10,Card,3,No,,Ads
+OD1114,4/23/2024,C316,Nagpur,Tamil Nadu,52,Female,Home,Kitchen,Women Kurti,26052,2,5,NetBanking,4,No,5,Referral
+OD1115,4/24/2024,C863,Jaipur,Telangana,18,Female,Home,Laptop,Boat Earphones,60909,3,40,NetBanking,5,No,4,Organic
+OD1116,4/25/2024,C287,Hyderabad,Karnataka,52,Female,Electronics,Clothing,Redmi Phone,25315,1,5,NetBanking,7,No,5,Ads
+OD1117,4/26/2024,C479,Chennai,Tamil Nadu,54,Male,Home,Kitchen,Office Chair,55525,3,40,Card,5,No,3,Email
+OD1118,4/27/2024,C592,Delhi,Maharashtra,31,Female,Fashion,Clothing,Nike Shoes,51204,1,20,NetBanking,9,Yes,4,Ads
+OD1119,4/28/2024,C140,Nagpur,Gujarat,20,Male,Home,Footwear,Samsung Phone,62421,3,10,NetBanking,5,No,5,Email
+OD1120,4/29/2024,C256,Mumbai,Delhi,18,Male,Fashion,Decor,Prestige Cooker,2380,2,30,UPI,4,No,1,Referral
+OD1121,4/30/2024,C114,Ahmedabad,West Bengal,22,Male,Electronics,Furniture,Samsung Phone,40066,3,20,COD,8,No,5,Ads
+OD1122,5/1/2024,C912,Chennai,Tamil Nadu,43,Male,Fashion,Kitchen,HP Laptop,47864,2,40,Card,8,No,3,Organic
+OD1123,5/2/2024,C164,Hyderabad,Tamil Nadu,31,Female,Fashion,Kitchen,Wall Clock,25505,1,15,COD,4,No,2,Ads
+OD1124,5/3/2024,C956,Jaipur,Delhi,56,Male,Fashion,Furniture,Redmi Phone,41697,3,5,UPI,3,No,2,Organic
+OD1125,5/4/2024,C938,Pune,Tamil Nadu,44,Female,Electronics,Clothing,Samsung Phone,23330,2,20,COD,2,No,,Email
+OD1126,5/5/2024,C620,Hyderabad,Maharashtra,26,Female,Home,Footwear,Women Kurti,16958,1,40,NetBanking,6,Yes,2,Referral
+OD1127,5/6/2024,C443,Chennai,Maharashtra,32,Female,Home,Accessories,Wall Clock,32942,1,5,NetBanking,6,No,5,Referral
+OD1128,5/7/2024,C228,Hyderabad,Delhi,32,Male,Electronics,Furniture,Samsung Phone,42815,3,40,Card,7,No,3,Organic
+OD1129,5/8/2024,C747,Chennai,West Bengal,43,Male,Fashion,Decor,Men T-Shirt,64985,1,10,Card,2,No,2,Email
+OD1130,5/9/2024,C571,Chennai,Telangana,59,Female,Home,Laptop,HP Laptop,6376,2,0,Card,7,No,1,Referral
+OD1131,5/10/2024,C162,Kolkata,Karnataka,30,Male,Electronics,Clothing,Boat Earphones,40052,1,20,UPI,3,No,5,Email
+OD1132,5/11/2024,C238,Delhi,Telangana,49,Male,Home,Furniture,Prestige Cooker,5421,1,30,Card,7,No,2,Organic
+OD1133,5/12/2024,C598,Ahmedabad,Tamil Nadu,56,Male,Electronics,Furniture,HP Laptop,5185,2,20,UPI,2,Yes,3,Organic
+OD1134,5/13/2024,C692,Kolkata,Karnataka,49,Male,Fashion,Kitchen,Wall Clock,33265,1,5,NetBanking,9,No,3,Ads
+OD1135,5/14/2024,C491,Jaipur,Rajasthan,21,Female,Home,Laptop,Men T-Shirt,32505,1,10,COD,2,No,1,Referral
+OD1136,5/15/2024,C774,Kolkata,Delhi,47,Female,Electronics,Laptop,Redmi Phone,31921,1,40,NetBanking,6,No,3,Referral
+OD1137,5/16/2024,C518,Bangalore,Delhi,54,Female,Home,Decor,Women Kurti,12704,1,15,NetBanking,8,No,,Ads
+OD1138,5/17/2024,C388,Bangalore,West Bengal,40,Female,Home,Laptop,Prestige Cooker,24026,2,30,NetBanking,3,Yes,2,Organic
+OD1139,5/18/2024,C478,Ahmedabad,Karnataka,56,Male,Home,Furniture,Prestige Cooker,18942,1,10,Card,9,Yes,5,Organic
+OD1140,5/19/2024,C872,Hyderabad,Maharashtra,32,Female,Home,Accessories,HP Laptop,17023,2,20,Card,4,No,4,Organic
+OD1141,5/20/2024,C589,Delhi,Karnataka,60,Female,Electronics,Mobile,Wall Clock,28701,1,15,Card,9,No,3,Organic
+OD1142,5/21/2024,C330,Ahmedabad,Tamil Nadu,46,Female,Fashion,Clothing,Redmi Phone,66051,1,10,COD,9,Yes,3,Email
+OD1143,5/22/2024,C140,Chennai,Maharashtra,53,Male,Electronics,Mobile,Office Chair,46641,1,0,Card,7,No,4,Referral
+OD1144,5/23/2024,C127,Mumbai,Gujarat,30,Male,Electronics,Furniture,Men T-Shirt,62191,1,30,UPI,6,No,3,Referral
+OD1145,5/24/2024,C234,Delhi,Gujarat,49,Female,Electronics,Mobile,Office Chair,21354,2,5,NetBanking,7,No,2,Organic
+OD1146,5/25/2024,C300,Delhi,Rajasthan,24,Female,Fashion,Furniture,Women Kurti,60871,2,10,COD,7,No,,Organic
+OD1147,5/26/2024,C939,Chennai,Gujarat,39,Male,Home,Mobile,Redmi Phone,25594,2,10,COD,4,No,4,Organic
+OD1148,5/27/2024,C879,Chennai,Delhi,45,Male,Home,Laptop,Redmi Phone,39223,3,0,COD,3,Yes,3,Referral
+OD1149,5/28/2024,C132,Pune,Karnataka,19,Male,Home,Footwear,Men T-Shirt,49740,1,20,COD,2,No,3,Referral
+OD1150,5/29/2024,C147,Ahmedabad,Gujarat,59,Female,Fashion,Laptop,Nike Shoes,52502,1,40,COD,5,No,5,Organic
+OD1151,5/30/2024,C602,Chennai,Telangana,23,Male,Home,Laptop,Office Chair,68878,2,40,UPI,7,No,3,Email
+OD1152,5/31/2024,C506,Bangalore,West Bengal,45,Female,Fashion,Decor,Samsung Phone,16471,3,30,NetBanking,5,No,2,Ads
+OD1153,6/1/2024,C673,Jaipur,Telangana,45,Male,Home,Kitchen,Prestige Cooker,23426,1,30,COD,3,No,1,Ads
+OD1154,6/2/2024,C827,Mumbai,Gujarat,37,Female,Home,Kitchen,Nike Shoes,67129,2,5,NetBanking,5,Yes,1,Ads
+OD1155,6/3/2024,C904,Ahmedabad,Rajasthan,47,Female,Electronics,Mobile,Samsung Phone,52846,1,10,Card,7,No,,Referral
+OD1156,6/4/2024,C198,Nagpur,West Bengal,28,Female,Fashion,Furniture,Wall Clock,45782,1,15,COD,4,No,1,Referral
+OD1157,6/5/2024,C783,Bangalore,Tamil Nadu,45,Male,Electronics,Decor,Men T-Shirt,12704,2,10,COD,5,No,3,Ads
+OD1158,6/6/2024,C971,Hyderabad,Telangana,42,Female,Electronics,Laptop,Wall Clock,13247,2,40,NetBanking,3,No,3,Ads
+OD1159,6/7/2024,C825,Chennai,Rajasthan,56,Female,Electronics,Decor,Prestige Cooker,21596,1,5,COD,3,No,5,Email
+OD1160,6/8/2024,C646,Nagpur,Karnataka,50,Male,Fashion,Mobile,Boat Earphones,3591,1,10,COD,8,No,3,Referral
+OD1161,6/9/2024,C838,Chennai,Karnataka,18,Male,Fashion,Kitchen,Samsung Phone,53810,2,0,COD,8,No,1,Referral
+OD1162,6/10/2024,C712,Delhi,Telangana,44,Female,Home,Footwear,Nike Shoes,23191,1,40,UPI,4,No,4,Ads
+OD1163,6/11/2024,C561,Bangalore,Gujarat,30,Female,Electronics,Clothing,Samsung Phone,24361,1,10,UPI,5,No,4,Email
+OD1164,6/12/2024,C742,Delhi,Rajasthan,58,Female,Home,Mobile,Samsung Phone,5425,2,10,COD,5,Yes,2,Email
+OD1165,6/13/2024,C868,Pune,Karnataka,20,Male,Electronics,Decor,Men T-Shirt,4468,1,40,UPI,8,No,2,Ads
+OD1166,6/14/2024,C104,Delhi,Tamil Nadu,56,Male,Fashion,Footwear,Wall Clock,36232,1,15,Card,2,No,3,Ads
+OD1167,6/15/2024,C317,Pune,Maharashtra,23,Male,Fashion,Clothing,Office Chair,42242,3,40,COD,6,Yes,,Referral
+OD1168,6/16/2024,C602,Pune,Gujarat,25,Male,Fashion,Accessories,Boat Earphones,40375,2,0,Card,3,Yes,1,Ads
+OD1169,6/17/2024,C866,Nagpur,Rajasthan,44,Male,Electronics,Mobile,Men T-Shirt,20822,3,0,NetBanking,2,Yes,1,Organic
+OD1170,6/18/2024,C497,Chennai,Tamil Nadu,26,Male,Fashion,Mobile,Women Kurti,16927,3,10,Card,3,Yes,1,Email
+OD1171,6/19/2024,C970,Hyderabad,Rajasthan,54,Male,Electronics,Accessories,Men T-Shirt,35077,3,30,NetBanking,9,No,3,Ads
+OD1172,6/20/2024,C894,Delhi,West Bengal,50,Male,Home,Accessories,Prestige Cooker,64639,1,15,COD,9,No,3,Organic
+OD1173,6/21/2024,C492,Bangalore,Tamil Nadu,59,Male,Electronics,Mobile,Boat Earphones,6863,1,10,NetBanking,2,No,5,Email
+OD1174,6/22/2024,C306,Pune,Gujarat,41,Male,Home,Accessories,Redmi Phone,35848,3,40,NetBanking,9,No,1,Organic
+OD1175,6/23/2024,C114,Chennai,West Bengal,32,Female,Electronics,Laptop,Women Kurti,1190,3,10,Card,8,No,1,Organic
+OD1176,6/24/2024,C957,Mumbai,Gujarat,49,Male,Home,Clothing,HP Laptop,66966,3,5,Card,8,No,3,Ads
+OD1177,6/25/2024,C653,Ahmedabad,Karnataka,49,Male,Fashion,Clothing,Men T-Shirt,46395,1,5,Card,6,No,3,Email
+OD1178,6/26/2024,C991,Nagpur,Maharashtra,41,Male,Home,Clothing,Samsung Phone,57561,3,30,COD,2,No,5,Organic
+OD1179,6/27/2024,C560,Hyderabad,Gujarat,58,Female,Fashion,Laptop,Office Chair,14360,3,15,COD,3,No,,Referral
+OD1180,6/28/2024,C790,Kolkata,Gujarat,29,Female,Fashion,Furniture,Redmi Phone,64427,2,20,Card,5,No,2,Email
+OD1181,6/29/2024,C674,Nagpur,Karnataka,56,Male,Home,Accessories,Men T-Shirt,41846,2,5,COD,3,No,4,Referral
+OD1182,6/30/2024,C963,Mumbai,Delhi,19,Male,Electronics,Footwear,Men T-Shirt,3620,1,20,COD,7,Yes,1,Ads
+OD1183,7/1/2024,C842,Ahmedabad,Karnataka,20,Female,Electronics,Accessories,Nike Shoes,28663,2,0,NetBanking,8,No,1,Referral
+OD1184,7/2/2024,C340,Mumbai,West Bengal,54,Female,Electronics,Mobile,Nike Shoes,25990,2,5,NetBanking,4,No,5,Email
+OD1185,7/3/2024,C663,Delhi,Karnataka,34,Female,Electronics,Kitchen,Redmi Phone,59721,2,5,Card,4,No,,Organic
+OD1186,7/4/2024,C195,Pune,Karnataka,19,Female,Electronics,Decor,Wall Clock,23664,1,15,COD,8,No,2,Organic
+OD1187,7/5/2024,C833,Hyderabad,Maharashtra,19,Male,Fashion,Decor,Nike Shoes,4247,2,30,NetBanking,7,Yes,4,Email
+OD1188,7/6/2024,C584,Jaipur,Karnataka,45,Male,Electronics,Clothing,Samsung Phone,27052,1,20,UPI,4,No,2,Organic
+OD1189,7/7/2024,C506,Pune,Rajasthan,40,Female,Fashion,Accessories,Women Kurti,60879,3,40,COD,9,Yes,4,Referral
+OD1190,7/8/2024,C330,Jaipur,Gujarat,54,Male,Fashion,Footwear,HP Laptop,44830,2,5,UPI,8,No,1,Organic
+OD1191,7/9/2024,C848,Ahmedabad,Rajasthan,49,Male,Fashion,Mobile,Boat Earphones,40059,1,5,Card,4,No,2,Organic
+OD1192,7/10/2024,C754,Chennai,Maharashtra,50,Male,Home,Laptop,HP Laptop,54364,2,15,COD,8,No,5,Referral
+OD1193,7/11/2024,C270,Kolkata,Telangana,18,Female,Home,Furniture,HP Laptop,47185,3,15,Card,6,Yes,2,Referral
+OD1194,7/12/2024,C640,Bangalore,Delhi,36,Female,Fashion,Laptop,Boat Earphones,5174,1,30,Card,5,No,2,Referral
+OD1195,7/13/2024,C135,Pune,Rajasthan,19,Female,Home,Footwear,Nike Shoes,67205,1,20,Card,5,No,1,Ads
+OD1196,7/14/2024,C624,Hyderabad,Maharashtra,43,Female,Electronics,Mobile,Redmi Phone,10567,1,0,Card,3,No,5,Referral
+OD1197,7/15/2024,C259,Mumbai,West Bengal,49,Female,Electronics,Clothing,Boat Earphones,54959,3,40,Card,7,Yes,5,Referral
+OD1198,7/16/2024,C938,Hyderabad,Telangana,23,Male,Fashion,Accessories,Prestige Cooker,46917,3,30,COD,8,No,3,Ads
+OD1199,7/17/2024,C798,Ahmedabad,Maharashtra,49,Female,Electronics,Mobile,Wall Clock,26705,3,0,UPI,2,No,3,Organic
+OD1200,7/18/2024,C342,Jaipur,Maharashtra,21,Male,Fashion,Decor,Women Kurti,786,1,10,COD,3,Yes,3,Referral
+OD1201,7/19/2024,C185,Mumbai,Delhi,28,Female,Fashion,Furniture,Office Chair,22836,3,5,COD,3,No,1,Email
+OD1202,7/20/2024,C895,Bangalore,Gujarat,34,Female,Electronics,Laptop,Nike Shoes,21165,2,20,COD,8,No,2,Referral
+OD1203,7/21/2024,C677,Bangalore,Rajasthan,55,Male,Home,Furniture,Wall Clock,1660,3,30,NetBanking,8,No,5,Referral
+OD1204,7/22/2024,C781,Pune,West Bengal,41,Male,Electronics,Furniture,Boat Earphones,39250,1,5,NetBanking,3,No,5,Ads
+OD1205,7/23/2024,C656,Ahmedabad,Tamil Nadu,22,Female,Electronics,Footwear,Prestige Cooker,15257,2,20,COD,3,No,2,Email
+OD1206,7/24/2024,C673,Chennai,Rajasthan,51,Female,Fashion,Footwear,Office Chair,66279,3,20,UPI,5,No,5,Organic
+OD1207,7/25/2024,C745,Ahmedabad,Tamil Nadu,23,Female,Fashion,Accessories,Women Kurti,3677,2,20,COD,2,No,2,Organic
+OD1208,7/26/2024,C895,Jaipur,Maharashtra,39,Male,Fashion,Footwear,Women Kurti,32330,2,5,Card,9,No,1,Email
+OD1209,7/27/2024,C127,Hyderabad,Karnataka,28,Female,Fashion,Footwear,Nike Shoes,2675,1,30,NetBanking,3,No,1,Referral
+OD1210,7/28/2024,C719,Bangalore,West Bengal,33,Male,Home,Mobile,Boat Earphones,34153,2,40,NetBanking,9,No,1,Ads
+OD1211,7/29/2024,C655,Hyderabad,Telangana,50,Male,Home,Decor,Wall Clock,27126,2,15,COD,5,No,2,Email
+OD1212,7/30/2024,C439,Hyderabad,Karnataka,26,Female,Home,Clothing,Redmi Phone,53049,1,5,COD,3,No,2,Email
+OD1213,7/31/2024,C897,Hyderabad,Karnataka,23,Female,Fashion,Accessories,Wall Clock,45409,1,20,UPI,4,No,4,Organic
+OD1214,8/1/2024,C430,Bangalore,Rajasthan,33,Female,Fashion,Mobile,Wall Clock,58750,1,30,UPI,3,No,5,Ads
+OD1215,8/2/2024,C739,Nagpur,West Bengal,46,Female,Fashion,Clothing,Women Kurti,35921,2,40,Card,8,No,5,Email
+OD1216,8/3/2024,C605,Delhi,Gujarat,20,Male,Home,Furniture,Redmi Phone,12483,2,10,COD,7,No,4,Ads
+OD1217,8/4/2024,C447,Jaipur,Maharashtra,37,Male,Fashion,Mobile,Redmi Phone,61885,2,0,COD,7,Yes,4,Referral
+OD1218,8/5/2024,C572,Nagpur,Maharashtra,53,Female,Electronics,Kitchen,Nike Shoes,7634,1,20,COD,3,Yes,1,Organic
+OD1219,8/6/2024,C330,Jaipur,Maharashtra,36,Male,Electronics,Mobile,Office Chair,819,3,10,NetBanking,6,No,4,Referral
+OD1220,8/7/2024,C289,Mumbai,Maharashtra,43,Female,Fashion,Footwear,Men T-Shirt,22183,2,15,Card,4,No,2,Ads
+OD1221,8/8/2024,C324,Ahmedabad,Rajasthan,20,Female,Electronics,Clothing,HP Laptop,56412,3,40,UPI,2,No,3,Referral
+OD1222,8/9/2024,C484,Ahmedabad,Tamil Nadu,36,Male,Electronics,Accessories,HP Laptop,22388,1,40,NetBanking,3,Yes,2,Organic
+OD1223,8/10/2024,C476,Kolkata,Maharashtra,37,Female,Home,Accessories,Women Kurti,49398,2,20,NetBanking,9,Yes,4,Ads
+OD1224,8/11/2024,C382,Ahmedabad,Tamil Nadu,49,Male,Fashion,Clothing,Men T-Shirt,11269,3,40,NetBanking,2,Yes,5,Email
+OD1225,8/12/2024,C732,Bangalore,Tamil Nadu,24,Female,Fashion,Footwear,Office Chair,39820,2,10,NetBanking,4,Yes,2,Referral
+OD1226,8/13/2024,C727,Chennai,Gujarat,58,Female,Home,Laptop,Men T-Shirt,42276,2,20,Card,3,Yes,5,Organic
+OD1227,8/14/2024,C844,Pune,Maharashtra,50,Female,Electronics,Mobile,Nike Shoes,46749,2,5,COD,6,No,2,Email
+OD1228,8/15/2024,C358,Kolkata,Delhi,57,Male,Electronics,Footwear,Wall Clock,40629,3,30,UPI,5,No,5,Organic
+OD1229,8/16/2024,C458,Pune,Telangana,56,Female,Fashion,Kitchen,Women Kurti,49845,1,10,UPI,6,No,2,Ads
+OD1230,8/17/2024,C809,Jaipur,Karnataka,35,Male,Electronics,Decor,Redmi Phone,3036,2,30,NetBanking,8,No,5,Ads
+OD1231,8/18/2024,C555,Pune,Tamil Nadu,57,Male,Home,Furniture,Women Kurti,15715,1,5,NetBanking,6,No,3,Referral
+OD1232,8/19/2024,C510,Pune,West Bengal,18,Female,Home,Clothing,HP Laptop,3508,1,5,Card,9,Yes,1,Organic
+OD1233,8/20/2024,C748,Kolkata,West Bengal,28,Female,Fashion,Decor,Office Chair,29826,3,30,NetBanking,5,Yes,2,Organic
+OD1234,8/21/2024,C417,Mumbai,Telangana,45,Female,Home,Mobile,Men T-Shirt,14708,3,10,UPI,8,No,3,Organic
+OD1235,8/22/2024,C776,Hyderabad,West Bengal,42,Male,Home,Accessories,Office Chair,48942,1,30,UPI,5,No,1,Ads
+OD1236,8/23/2024,C324,Ahmedabad,Delhi,40,Female,Fashion,Furniture,Nike Shoes,15528,2,30,COD,7,No,2,Referral
+OD1237,8/24/2024,C918,Ahmedabad,West Bengal,48,Female,Home,Decor,Women Kurti,68112,3,0,COD,5,No,3,Organic
+OD1238,8/25/2024,C333,Bangalore,Karnataka,47,Female,Home,Laptop,Boat Earphones,57496,2,10,UPI,3,No,3,Organic
+OD1239,8/26/2024,C783,Kolkata,Karnataka,59,Female,Home,Decor,Women Kurti,63058,2,0,UPI,2,No,3,Email
+OD1240,8/27/2024,C763,Bangalore,Tamil Nadu,52,Female,Electronics,Kitchen,Redmi Phone,65391,2,20,Card,7,No,4,Organic
+OD1241,8/28/2024,C926,Chennai,Maharashtra,24,Male,Fashion,Accessories,Women Kurti,9134,1,40,Card,7,No,5,Referral
+OD1242,8/29/2024,C473,Chennai,Gujarat,33,Male,Fashion,Clothing,Prestige Cooker,33564,2,30,UPI,2,No,1,Email
+OD1243,8/30/2024,C771,Bangalore,Delhi,43,Female,Fashion,Mobile,Nike Shoes,34282,1,20,NetBanking,9,No,5,Email
+OD1244,8/31/2024,C707,Kolkata,Tamil Nadu,19,Male,Electronics,Clothing,Samsung Phone,34651,1,10,COD,7,Yes,5,Email
+OD1245,9/1/2024,C571,Bangalore,Delhi,18,Female,Electronics,Furniture,Nike Shoes,59240,2,30,UPI,5,No,5,Ads
+OD1246,9/2/2024,C332,Ahmedabad,Maharashtra,29,Female,Fashion,Mobile,Men T-Shirt,52001,2,40,NetBanking,6,No,3,Email
+OD1247,9/3/2024,C791,Nagpur,Rajasthan,22,Male,Electronics,Footwear,Samsung Phone,29591,2,20,UPI,4,No,5,Organic
+OD1248,9/4/2024,C212,Delhi,West Bengal,54,Male,Fashion,Laptop,Men T-Shirt,18152,2,15,COD,9,No,4,Ads
+OD1249,9/5/2024,C929,Pune,West Bengal,49,Male,Electronics,Footwear,Men T-Shirt,40968,1,5,COD,5,No,2,Ads
+OD1250,9/6/2024,C596,Delhi,Gujarat,26,Female,Home,Footwear,Redmi Phone,60253,2,30,Card,8,No,3,Ads
+OD1251,9/7/2024,C541,Kolkata,Maharashtra,58,Male,Home,Clothing,Redmi Phone,30477,2,40,Card,8,No,1,Ads
+OD1252,9/8/2024,C663,Delhi,Tamil Nadu,52,Female,Fashion,Furniture,Wall Clock,43668,1,5,Card,6,No,2,Ads
+OD1253,9/9/2024,C367,Chennai,Gujarat,36,Male,Electronics,Laptop,HP Laptop,48786,3,0,Card,9,No,2,Ads
+OD1254,9/10/2024,C609,Jaipur,Maharashtra,33,Male,Electronics,Decor,Wall Clock,55244,3,20,COD,9,No,2,Ads
+OD1255,9/11/2024,C906,Pune,Telangana,20,Female,Home,Mobile,Wall Clock,6042,1,0,NetBanking,6,No,5,Email
+OD1256,9/12/2024,C485,Hyderabad,Karnataka,37,Female,Home,Mobile,HP Laptop,56891,3,40,NetBanking,9,Yes,5,Referral
+OD1257,9/13/2024,C486,Kolkata,Gujarat,41,Female,Electronics,Kitchen,Boat Earphones,21566,1,30,NetBanking,7,No,3,Organic
+OD1258,9/14/2024,C212,Pune,Gujarat,50,Female,Electronics,Accessories,Samsung Phone,51532,2,5,UPI,3,No,5,Organic
+OD1259,9/15/2024,C712,Delhi,Tamil Nadu,41,Female,Electronics,Kitchen,Office Chair,45755,2,5,Card,3,No,5,Email
+OD1260,9/16/2024,C724,Chennai,Delhi,28,Female,Electronics,Decor,Wall Clock,69844,3,20,Card,9,No,5,Email
+OD1261,9/17/2024,C180,Mumbai,Telangana,25,Female,Electronics,Kitchen,Women Kurti,22690,2,30,COD,7,Yes,3,Ads
+OD1262,9/18/2024,C798,Nagpur,Tamil Nadu,53,Male,Electronics,Mobile,Women Kurti,29491,3,15,COD,7,No,3,Referral
+OD1263,9/19/2024,C212,Hyderabad,Maharashtra,55,Male,Fashion,Clothing,Men T-Shirt,49302,3,15,UPI,2,No,4,Ads
+OD1264,9/20/2024,C101,Nagpur,Maharashtra,57,Male,Electronics,Footwear,HP Laptop,63976,2,20,UPI,2,No,4,Email
+OD1265,9/21/2024,C741,Pune,Maharashtra,37,Female,Home,Furniture,Men T-Shirt,13709,2,30,NetBanking,4,Yes,4,Ads
+OD1266,9/22/2024,C319,Chennai,Rajasthan,52,Female,Fashion,Footwear,Prestige Cooker,26769,3,20,COD,4,No,4,Organic
+OD1267,9/23/2024,C665,Chennai,Maharashtra,42,Male,Electronics,Footwear,Prestige Cooker,62507,2,30,Card,4,No,2,Organic
+OD1268,9/24/2024,C954,Delhi,Delhi,52,Female,Home,Laptop,Office Chair,5696,1,40,NetBanking,4,No,2,Ads
+OD1269,9/25/2024,C835,Ahmedabad,Telangana,42,Female,Fashion,Mobile,Redmi Phone,7951,2,40,Card,6,Yes,4,Referral
+OD1270,9/26/2024,C324,Delhi,West Bengal,46,Female,Home,Decor,Redmi Phone,41985,2,0,NetBanking,6,No,4,Ads
+OD1271,9/27/2024,C484,Ahmedabad,Karnataka,35,Female,Electronics,Decor,HP Laptop,15358,1,20,Card,2,No,1,Ads
+OD1272,9/28/2024,C502,Ahmedabad,Delhi,35,Male,Electronics,Furniture,HP Laptop,27735,2,30,UPI,3,Yes,2,Referral
+OD1273,9/29/2024,C737,Hyderabad,Delhi,19,Male,Electronics,Clothing,Wall Clock,32398,2,15,NetBanking,7,No,1,Referral
+OD1274,9/30/2024,C229,Delhi,Rajasthan,52,Female,Electronics,Laptop,Prestige Cooker,32582,3,30,Card,8,No,1,Referral
+OD1275,10/1/2024,C152,Mumbai,West Bengal,33,Male,Fashion,Accessories,Wall Clock,68207,2,40,Card,3,Yes,5,Organic
+OD1276,10/2/2024,C783,Bangalore,West Bengal,58,Male,Fashion,Clothing,Redmi Phone,17162,2,30,COD,5,No,3,Ads
+OD1277,10/3/2024,C829,Bangalore,Karnataka,53,Male,Home,Kitchen,Samsung Phone,19552,1,20,NetBanking,6,No,2,Email
+OD1278,10/4/2024,C771,Delhi,Karnataka,50,Male,Electronics,Clothing,Samsung Phone,11584,3,0,Card,4,No,4,Referral
+OD1279,10/5/2024,C809,Delhi,West Bengal,21,Male,Home,Clothing,HP Laptop,31063,3,0,COD,4,Yes,4,Referral
+OD1280,10/6/2024,C515,Nagpur,Maharashtra,50,Female,Fashion,Footwear,Men T-Shirt,59594,3,0,Card,5,Yes,3,Ads
+OD1281,10/7/2024,C346,Hyderabad,Delhi,31,Male,Electronics,Clothing,Redmi Phone,21652,2,0,NetBanking,3,No,2,Email
+OD1282,10/8/2024,C935,Delhi,Tamil Nadu,38,Male,Electronics,Decor,Samsung Phone,5746,3,40,UPI,4,No,4,Ads
+OD1283,10/9/2024,C538,Nagpur,Karnataka,37,Female,Fashion,Kitchen,Redmi Phone,11052,1,10,NetBanking,3,Yes,4,Ads
+OD1284,10/10/2024,C302,Ahmedabad,Rajasthan,25,Female,Fashion,Kitchen,Nike Shoes,21310,3,20,NetBanking,7,Yes,5,Referral
+OD1285,10/11/2024,C283,Chennai,Rajasthan,24,Male,Fashion,Mobile,Women Kurti,6634,1,5,Card,5,Yes,1,Referral
+OD1286,10/12/2024,C222,Chennai,Karnataka,20,Female,Fashion,Clothing,Prestige Cooker,6072,3,20,Card,8,No,4,Organic
+OD1287,10/13/2024,C500,Ahmedabad,West Bengal,34,Male,Fashion,Footwear,Wall Clock,7688,3,10,NetBanking,3,No,2,Email
+OD1288,10/14/2024,C866,Kolkata,Telangana,50,Male,Electronics,Clothing,Redmi Phone,44145,1,0,COD,7,No,3,Email
+OD1289,10/15/2024,C393,Nagpur,Tamil Nadu,29,Female,Fashion,Accessories,Women Kurti,54186,3,10,COD,9,Yes,5,Referral
+OD1290,10/16/2024,C379,Nagpur,Tamil Nadu,39,Male,Electronics,Accessories,Nike Shoes,68811,3,15,COD,9,No,2,Referral
+OD1291,10/17/2024,C936,Ahmedabad,Karnataka,39,Male,Electronics,Footwear,Wall Clock,28063,3,15,Card,3,Yes,5,Referral
+OD1292,10/18/2024,C983,Mumbai,Maharashtra,47,Male,Fashion,Mobile,Redmi Phone,29334,2,40,Card,9,No,1,Email
+OD1293,10/19/2024,C709,Jaipur,Telangana,55,Female,Fashion,Mobile,HP Laptop,62086,1,20,NetBanking,3,No,4,Organic
+OD1294,10/20/2024,C297,Pune,Tamil Nadu,55,Female,Electronics,Kitchen,Women Kurti,8196,3,20,UPI,4,No,2,Email
+OD1295,10/21/2024,C610,Ahmedabad,Karnataka,25,Female,Fashion,Kitchen,Wall Clock,17545,1,5,Card,2,No,3,Referral
+OD1296,10/22/2024,C851,Delhi,Rajasthan,44,Male,Fashion,Laptop,Redmi Phone,58322,1,40,NetBanking,9,Yes,1,Referral
+OD1297,10/23/2024,C243,Delhi,Tamil Nadu,44,Male,Fashion,Footwear,Women Kurti,53869,1,5,NetBanking,6,Yes,1,Organic
+OD1298,10/24/2024,C708,Hyderabad,Gujarat,51,Female,Home,Clothing,Nike Shoes,10114,3,15,UPI,3,No,5,Ads
+OD1299,10/25/2024,C300,Ahmedabad,Telangana,38,Male,Electronics,Furniture,Redmi Phone,5559,3,0,COD,3,No,1,Ads
+OD1300,10/26/2024,C223,Hyderabad,Telangana,47,Male,Home,Footwear,Redmi Phone,61018,1,10,NetBanking,3,No,2,Email
+OD1301,10/27/2024,C286,Ahmedabad,Gujarat,50,Male,Fashion,Laptop,Redmi Phone,61657,2,5,NetBanking,2,No,5,Ads
+OD1302,10/28/2024,C425,Nagpur,Delhi,45,Male,Home,Kitchen,Office Chair,35281,1,30,NetBanking,7,No,1,Ads
+OD1303,10/29/2024,C563,Pune,Rajasthan,50,Female,Fashion,Footwear,HP Laptop,58754,2,5,COD,9,Yes,3,Email
+OD1304,10/30/2024,C448,Nagpur,Gujarat,22,Male,Home,Footwear,Nike Shoes,57417,1,0,COD,8,Yes,2,Referral
+OD1305,10/31/2024,C870,Jaipur,West Bengal,36,Male,Fashion,Kitchen,Wall Clock,25755,1,0,UPI,8,No,3,Ads
+OD1306,11/1/2024,C759,Chennai,West Bengal,21,Male,Home,Decor,Office Chair,30504,1,20,Card,5,Yes,3,Referral
+OD1307,11/2/2024,C863,Bangalore,Karnataka,52,Male,Home,Laptop,Men T-Shirt,7137,3,10,COD,4,No,5,Email
+OD1308,11/3/2024,C502,Ahmedabad,Telangana,34,Female,Home,Kitchen,Office Chair,37918,2,0,Card,2,Yes,4,Referral
+OD1309,11/4/2024,C445,Jaipur,Delhi,45,Female,Electronics,Mobile,Prestige Cooker,33876,2,40,Card,7,No,5,Referral
+OD1310,11/5/2024,C610,Chennai,Delhi,47,Female,Home,Clothing,Prestige Cooker,43615,1,5,COD,3,No,2,Email
+OD1311,11/6/2024,C246,Kolkata,Tamil Nadu,46,Female,Electronics,Kitchen,Redmi Phone,37133,3,5,NetBanking,7,Yes,2,Referral
+OD1312,11/7/2024,C247,Pune,Tamil Nadu,23,Male,Fashion,Laptop,Office Chair,23881,3,15,UPI,2,No,5,Ads
+OD1313,11/8/2024,C963,Hyderabad,Gujarat,52,Female,Home,Accessories,Men T-Shirt,56562,2,0,Card,2,No,4,Ads
+OD1314,11/9/2024,C810,Hyderabad,Delhi,58,Female,Fashion,Mobile,Office Chair,22893,3,30,NetBanking,2,No,5,Ads
+OD1315,11/10/2024,C919,Nagpur,Gujarat,54,Male,Fashion,Accessories,HP Laptop,68288,2,20,COD,5,Yes,2,Ads
+OD1316,11/11/2024,C588,Delhi,Rajasthan,41,Male,Home,Furniture,HP Laptop,1363,2,10,Card,6,No,4,Referral
+OD1317,11/12/2024,C739,Chennai,Gujarat,46,Male,Electronics,Kitchen,Men T-Shirt,40721,2,30,Card,4,Yes,2,Ads
+OD1318,11/13/2024,C650,Kolkata,Tamil Nadu,48,Male,Home,Mobile,Office Chair,14165,3,20,Card,5,No,4,Referral
+OD1319,11/14/2024,C437,Jaipur,Telangana,52,Female,Fashion,Clothing,Women Kurti,21454,2,5,NetBanking,5,No,4,Organic
+OD1320,11/15/2024,C971,Pune,Gujarat,50,Male,Fashion,Kitchen,HP Laptop,66970,2,30,NetBanking,9,Yes,5,Referral
+OD1321,11/16/2024,C740,Chennai,Maharashtra,38,Female,Home,Clothing,HP Laptop,43797,1,20,NetBanking,6,No,5,Ads
+OD1322,11/17/2024,C878,Kolkata,Telangana,49,Female,Electronics,Decor,Samsung Phone,63607,2,5,Card,5,No,5,Organic
+OD1323,11/18/2024,C572,Bangalore,Delhi,40,Female,Electronics,Footwear,Office Chair,49423,2,5,Card,2,No,4,Email
+OD1324,11/19/2024,C250,Ahmedabad,Delhi,50,Female,Fashion,Accessories,HP Laptop,17208,1,5,UPI,2,No,4,Referral
+OD1325,11/20/2024,C514,Hyderabad,Gujarat,20,Male,Fashion,Mobile,Nike Shoes,10225,1,5,UPI,9,No,2,Ads
+OD1326,11/21/2024,C397,Jaipur,Telangana,35,Male,Electronics,Clothing,Office Chair,61323,3,40,NetBanking,7,No,3,Ads
+OD1327,11/22/2024,C710,Hyderabad,Tamil Nadu,42,Male,Home,Laptop,Prestige Cooker,41041,2,5,NetBanking,3,Yes,5,Ads
+OD1328,11/23/2024,C362,Jaipur,Tamil Nadu,59,Male,Fashion,Clothing,Samsung Phone,20744,3,15,COD,5,No,2,Email
+OD1329,11/24/2024,C863,Nagpur,West Bengal,48,Female,Electronics,Laptop,HP Laptop,35252,3,30,NetBanking,3,No,2,Organic
+OD1330,11/25/2024,C243,Delhi,Delhi,20,Female,Fashion,Kitchen,Samsung Phone,21815,1,20,UPI,4,No,1,Organic
+OD1331,11/26/2024,C445,Jaipur,Karnataka,57,Male,Home,Mobile,Prestige Cooker,16459,3,15,UPI,8,No,5,Ads
+OD1332,11/27/2024,C723,Hyderabad,West Bengal,41,Female,Electronics,Clothing,Men T-Shirt,31290,2,40,UPI,2,No,2,Referral
+OD1333,11/28/2024,C671,Nagpur,Tamil Nadu,49,Male,Fashion,Furniture,Men T-Shirt,25715,1,15,Card,7,No,1,Ads
+OD1334,11/29/2024,C980,Jaipur,Telangana,39,Male,Home,Clothing,Office Chair,32966,2,0,Card,4,No,5,Ads
+OD1335,11/30/2024,C101,Bangalore,Rajasthan,40,Male,Fashion,Decor,Prestige Cooker,64926,2,0,NetBanking,9,No,4,Referral
+OD1336,12/1/2024,C996,Delhi,Tamil Nadu,19,Male,Home,Furniture,Boat Earphones,62546,1,0,COD,7,No,1,Ads
+OD1337,12/2/2024,C403,Jaipur,Telangana,44,Female,Home,Mobile,Boat Earphones,47513,2,10,COD,8,No,4,Email
+OD1338,12/3/2024,C353,Nagpur,West Bengal,59,Male,Electronics,Decor,Office Chair,4577,1,0,COD,8,No,3,Ads
+OD1339,12/4/2024,C751,Chennai,Delhi,19,Male,Home,Clothing,Redmi Phone,51018,2,20,Card,9,Yes,3,Email
+OD1340,12/5/2024,C552,Mumbai,Tamil Nadu,43,Female,Fashion,Laptop,Samsung Phone,4541,1,15,UPI,6,No,3,Ads
+OD1341,12/6/2024,C136,Kolkata,Gujarat,34,Female,Home,Clothing,Samsung Phone,49551,3,20,UPI,9,No,3,Organic
+OD1342,12/7/2024,C259,Mumbai,Telangana,57,Female,Home,Accessories,Men T-Shirt,14888,2,30,Card,2,Yes,2,Referral
+OD1343,12/8/2024,C108,Mumbai,Delhi,50,Female,Electronics,Kitchen,Boat Earphones,68610,1,0,COD,4,Yes,3,Organic
+OD1344,12/9/2024,C332,Pune,Rajasthan,26,Male,Home,Footwear,Wall Clock,51232,2,40,COD,6,No,2,Ads
+OD1345,12/10/2024,C198,Bangalore,Rajasthan,60,Female,Home,Laptop,HP Laptop,35253,2,10,NetBanking,8,No,2,Ads
+OD1346,12/11/2024,C758,Chennai,Karnataka,56,Female,Fashion,Accessories,HP Laptop,19123,2,30,NetBanking,4,No,5,Email
+OD1347,12/12/2024,C915,Ahmedabad,Telangana,46,Female,Electronics,Furniture,HP Laptop,27180,1,40,COD,7,No,2,Ads
+OD1348,12/13/2024,C307,Jaipur,West Bengal,59,Male,Electronics,Kitchen,Men T-Shirt,25203,3,10,Card,6,Yes,2,Ads
+OD1349,12/14/2024,C230,Kolkata,Karnataka,43,Male,Electronics,Mobile,Prestige Cooker,7992,3,30,COD,6,Yes,3,Ads
+OD1350,12/15/2024,C503,Delhi,Karnataka,52,Female,Home,Laptop,Women Kurti,54882,3,15,NetBanking,2,No,2,Organic
+OD1351,12/16/2024,C251,Chennai,Maharashtra,42,Female,Electronics,Footwear,Boat Earphones,3493,1,20,COD,9,No,4,Email
+OD1352,12/17/2024,C153,Hyderabad,Tamil Nadu,41,Female,Home,Kitchen,Boat Earphones,69779,3,5,Card,3,No,3,Organic
+OD1353,12/18/2024,C219,Ahmedabad,Telangana,30,Male,Home,Furniture,Wall Clock,47733,1,20,UPI,7,Yes,1,Email
+OD1354,12/19/2024,C772,Pune,Karnataka,24,Male,Fashion,Decor,Samsung Phone,47790,2,0,Card,7,No,3,Organic
+OD1355,12/20/2024,C727,Pune,Maharashtra,53,Female,Fashion,Decor,Redmi Phone,6093,2,40,Card,9,No,2,Ads
+OD1356,12/21/2024,C686,Chennai,West Bengal,37,Female,Fashion,Footwear,Office Chair,7870,3,5,NetBanking,6,No,4,Organic
+OD1357,12/22/2024,C724,Nagpur,Delhi,18,Female,Fashion,Mobile,Samsung Phone,47814,1,10,Card,6,No,3,Organic
+OD1358,12/23/2024,C519,Mumbai,Gujarat,25,Female,Fashion,Mobile,Prestige Cooker,17125,2,15,Card,2,No,4,Email
+OD1359,12/24/2024,C521,Hyderabad,Gujarat,33,Female,Home,Furniture,Office Chair,7629,1,15,NetBanking,3,No,1,Email
+OD1360,12/25/2024,C203,Pune,Telangana,31,Male,Home,Laptop,Boat Earphones,7327,1,10,NetBanking,7,Yes,1,Organic
+OD1361,12/26/2024,C951,Kolkata,Karnataka,29,Male,Electronics,Furniture,Prestige Cooker,58013,2,0,UPI,8,Yes,5,Email
+OD1362,12/27/2024,C353,Pune,Gujarat,40,Male,Home,Clothing,Office Chair,53163,1,10,COD,5,No,5,Email
+OD1363,12/28/2024,C326,Delhi,Tamil Nadu,32,Female,Home,Mobile,Wall Clock,18382,2,30,Card,5,No,3,Email
+OD1364,12/29/2024,C211,Jaipur,Gujarat,45,Male,Fashion,Kitchen,Wall Clock,43558,2,40,NetBanking,3,No,5,Referral
+OD1365,12/30/2024,C609,Pune,Gujarat,51,Male,Home,Clothing,Nike Shoes,43431,2,40,UPI,4,No,4,Email
+OD1366,12/31/2024,C572,Delhi,Gujarat,19,Female,Fashion,Decor,Women Kurti,61768,1,0,COD,2,No,5,Referral
+OD1367,1/1/2025,C198,Chennai,Rajasthan,49,Male,Electronics,Decor,Wall Clock,2534,2,5,NetBanking,3,No,4,Referral
+OD1368,1/2/2025,C252,Chennai,Maharashtra,40,Male,Electronics,Accessories,Boat Earphones,41244,1,10,COD,9,No,5,Email
+OD1369,1/3/2025,C960,Ahmedabad,Karnataka,39,Male,Home,Footwear,Redmi Phone,17740,2,0,COD,9,Yes,5,Organic
+OD1370,1/4/2025,C995,Pune,Tamil Nadu,42,Male,Electronics,Clothing,HP Laptop,53474,2,40,Card,5,Yes,5,Email
+OD1371,1/5/2025,C977,Kolkata,Karnataka,39,Female,Home,Footwear,Nike Shoes,23653,3,5,Card,6,No,2,Ads
+OD1372,1/6/2025,C437,Pune,Rajasthan,39,Female,Electronics,Furniture,HP Laptop,26124,3,10,NetBanking,5,No,2,Organic
+OD1373,1/7/2025,C805,Kolkata,Telangana,59,Male,Fashion,Clothing,Women Kurti,45449,3,15,COD,6,Yes,5,Referral
+OD1374,1/8/2025,C921,Bangalore,Telangana,23,Male,Fashion,Furniture,Office Chair,56895,1,10,NetBanking,2,No,4,Referral
+OD1375,1/9/2025,C262,Ahmedabad,Telangana,32,Male,Fashion,Accessories,Men T-Shirt,13830,1,20,NetBanking,6,Yes,3,Organic
+OD1376,1/10/2025,C819,Bangalore,West Bengal,60,Female,Fashion,Mobile,Wall Clock,64426,2,10,COD,3,No,1,Organic
+OD1377,1/11/2025,C780,Pune,Gujarat,54,Female,Home,Decor,Redmi Phone,63513,2,20,NetBanking,6,No,2,Email
+OD1378,1/12/2025,C260,Ahmedabad,West Bengal,50,Male,Electronics,Accessories,Women Kurti,39845,2,5,COD,4,No,5,Referral
+OD1379,1/13/2025,C679,Bangalore,Maharashtra,25,Male,Home,Decor,HP Laptop,54977,2,10,COD,9,Yes,1,Ads
+OD1380,1/14/2025,C900,Mumbai,Telangana,22,Female,Fashion,Mobile,Nike Shoes,12753,1,5,COD,3,No,2,Email
+OD1381,1/15/2025,C497,Pune,Rajasthan,56,Male,Home,Furniture,Wall Clock,56233,2,5,COD,9,No,3,Organic
+OD1382,1/16/2025,C376,Bangalore,Tamil Nadu,21,Male,Electronics,Mobile,Boat Earphones,29120,2,40,UPI,2,Yes,4,Referral
+OD1383,1/17/2025,C915,Mumbai,Karnataka,23,Male,Home,Decor,Wall Clock,46620,3,0,COD,3,Yes,5,Organic
+OD1384,1/18/2025,C603,Mumbai,Gujarat,49,Male,Electronics,Decor,Nike Shoes,60696,2,5,Card,4,No,3,Organic
+OD1385,1/19/2025,C995,Chennai,Delhi,47,Female,Home,Footwear,Nike Shoes,42930,2,5,Card,2,No,2,Organic
+OD1386,1/20/2025,C491,Pune,Tamil Nadu,52,Male,Electronics,Kitchen,Men T-Shirt,5336,2,40,Card,5,No,5,Email
+OD1387,1/21/2025,C234,Mumbai,Gujarat,57,Female,Electronics,Accessories,Wall Clock,49493,1,40,COD,4,No,1,Ads
+OD1388,1/22/2025,C294,Chennai,West Bengal,33,Female,Fashion,Clothing,Wall Clock,13114,3,10,Card,2,No,4,Ads
+OD1389,1/23/2025,C500,Bangalore,West Bengal,30,Male,Electronics,Decor,Men T-Shirt,1965,2,40,UPI,8,Yes,2,Referral
+OD1390,1/24/2025,C739,Delhi,Tamil Nadu,59,Male,Fashion,Accessories,Prestige Cooker,31270,2,10,NetBanking,6,Yes,4,Organic
+OD1391,1/25/2025,C132,Pune,West Bengal,47,Female,Fashion,Footwear,Prestige Cooker,66410,3,15,COD,3,No,5,Ads
+OD1392,1/26/2025,C787,Ahmedabad,Telangana,36,Male,Fashion,Mobile,Office Chair,21245,2,40,Card,2,No,3,Organic
+OD1393,1/27/2025,C559,Kolkata,Maharashtra,34,Female,Home,Footwear,Prestige Cooker,61238,1,0,UPI,3,No,4,Referral
+OD1394,1/28/2025,C982,Kolkata,Karnataka,36,Male,Home,Laptop,Samsung Phone,2392,2,5,NetBanking,6,No,1,Organic
+OD1395,1/29/2025,C569,Bangalore,Maharashtra,45,Male,Home,Laptop,Wall Clock,31072,1,0,UPI,2,No,2,Ads
+OD1396,1/30/2025,C474,Nagpur,Gujarat,43,Female,Home,Clothing,Redmi Phone,41373,1,20,Card,5,No,1,Organic
+OD1397,1/31/2025,C121,Nagpur,Karnataka,54,Female,Electronics,Footwear,Wall Clock,33866,2,40,UPI,8,No,4,Ads
+OD1398,2/1/2025,C849,Bangalore,Rajasthan,43,Female,Electronics,Furniture,Samsung Phone,21698,3,5,NetBanking,8,No,3,Referral
+OD1399,2/2/2025,C769,Mumbai,Karnataka,40,Female,Home,Clothing,Samsung Phone,58223,1,0,Card,4,Yes,3,Organic
+OD1400,2/3/2025,C137,Pune,Maharashtra,26,Female,Electronics,Furniture,HP Laptop,36904,3,40,NetBanking,2,No,1,Ads
+OD1401,2/4/2025,C329,Kolkata,Tamil Nadu,29,Male,Electronics,Clothing,Wall Clock,16488,2,40,UPI,6,Yes,5,Referral
+OD1402,2/5/2025,C464,Kolkata,Karnataka,18,Female,Fashion,Laptop,Women Kurti,29430,1,15,COD,2,No,5,Organic
+OD1403,2/6/2025,C662,Mumbai,Rajasthan,18,Female,Fashion,Clothing,Samsung Phone,9789,2,15,COD,3,No,3,Referral
+OD1404,2/7/2025,C537,Kolkata,Rajasthan,51,Male,Fashion,Laptop,Redmi Phone,38866,3,5,COD,7,No,1,Ads
+OD1405,2/8/2025,C875,Ahmedabad,Rajasthan,49,Male,Fashion,Decor,Men T-Shirt,30632,2,20,COD,9,No,1,Organic
+OD1406,2/9/2025,C382,Pune,Maharashtra,42,Male,Electronics,Mobile,Office Chair,27551,2,15,NetBanking,2,Yes,1,Organic
+OD1407,2/10/2025,C126,Jaipur,Karnataka,57,Male,Home,Furniture,HP Laptop,40974,1,15,COD,8,No,4,Organic
+OD1408,2/11/2025,C325,Kolkata,Delhi,18,Male,Electronics,Footwear,Men T-Shirt,58155,2,20,NetBanking,8,No,5,Referral
+OD1409,2/12/2025,C376,Bangalore,Tamil Nadu,33,Male,Electronics,Decor,HP Laptop,5132,2,0,Card,9,No,5,Referral
+OD1410,2/13/2025,C897,Ahmedabad,Telangana,56,Male,Electronics,Decor,Redmi Phone,17803,2,15,COD,8,No,4,Ads
+OD1411,2/14/2025,C708,Kolkata,Karnataka,22,Female,Fashion,Clothing,Nike Shoes,47045,1,10,NetBanking,5,No,2,Email
+OD1412,2/15/2025,C383,Ahmedabad,Rajasthan,39,Male,Fashion,Laptop,Wall Clock,7507,3,30,COD,2,No,4,Organic
+OD1413,2/16/2025,C978,Chennai,Delhi,46,Male,Fashion,Accessories,Boat Earphones,48790,3,30,COD,4,No,1,Organic
+OD1414,2/17/2025,C580,Jaipur,Telangana,20,Male,Home,Furniture,Women Kurti,27904,2,15,COD,2,Yes,4,Ads
+OD1415,2/18/2025,C552,Hyderabad,Telangana,29,Male,Electronics,Decor,Men T-Shirt,36885,1,0,NetBanking,7,No,1,Organic
+OD1416,2/19/2025,C928,Bangalore,Gujarat,43,Female,Home,Clothing,Wall Clock,21326,2,40,UPI,8,No,3,Referral
+OD1417,2/20/2025,C915,Bangalore,Karnataka,33,Female,Fashion,Kitchen,Women Kurti,33539,3,0,COD,3,No,1,Referral
+OD1418,2/21/2025,C758,Pune,Maharashtra,54,Female,Home,Mobile,Nike Shoes,60853,1,5,COD,8,No,5,Organic
+OD1419,2/22/2025,C615,Ahmedabad,Karnataka,39,Female,Electronics,Mobile,Boat Earphones,18656,3,10,Card,2,No,4,Organic
+OD1420,2/23/2025,C646,Mumbai,Delhi,46,Male,Electronics,Accessories,Women Kurti,35814,3,0,UPI,5,No,1,Referral
+OD1421,2/24/2025,C291,Bangalore,Telangana,31,Male,Fashion,Laptop,Women Kurti,36431,1,20,NetBanking,6,No,2,Organic
+OD1422,2/25/2025,C148,Ahmedabad,Karnataka,45,Male,Fashion,Clothing,Men T-Shirt,21663,1,10,Card,2,No,3,Referral
+OD1423,2/26/2025,C611,Ahmedabad,Maharashtra,22,Female,Home,Furniture,Prestige Cooker,14913,2,30,COD,2,No,2,Email
+OD1424,2/27/2025,C116,Delhi,Gujarat,47,Male,Fashion,Laptop,Boat Earphones,14826,2,10,Card,4,Yes,2,Email
+OD1425,2/28/2025,C271,Delhi,Karnataka,22,Female,Fashion,Mobile,Wall Clock,1445,3,20,Card,5,No,2,Organic
+OD1426,3/1/2025,C319,Hyderabad,Tamil Nadu,29,Female,Electronics,Laptop,Nike Shoes,15192,1,15,COD,7,No,3,Organic
+OD1427,3/2/2025,C257,Chennai,Gujarat,33,Male,Fashion,Mobile,Boat Earphones,27740,1,20,UPI,6,No,3,Organic
+OD1428,3/3/2025,C576,Hyderabad,Maharashtra,43,Female,Fashion,Laptop,Redmi Phone,16039,2,20,UPI,8,Yes,3,Referral
+OD1429,3/4/2025,C145,Kolkata,Delhi,43,Female,Electronics,Accessories,Prestige Cooker,65256,3,15,Card,3,No,3,Email
+OD1430,3/5/2025,C472,Mumbai,Telangana,38,Male,Electronics,Footwear,Redmi Phone,41702,3,15,COD,2,Yes,2,Email
+OD1431,3/6/2025,C617,Kolkata,Karnataka,56,Male,Home,Accessories,Nike Shoes,25580,2,15,NetBanking,7,Yes,5,Ads
+OD1432,3/7/2025,C198,Nagpur,Maharashtra,53,Male,Fashion,Accessories,Men T-Shirt,62360,1,15,Card,6,Yes,5,Ads
+OD1433,3/8/2025,C991,Kolkata,Gujarat,50,Male,Electronics,Footwear,Men T-Shirt,11849,2,15,NetBanking,3,No,3,Organic
+OD1434,3/9/2025,C844,Pune,Tamil Nadu,47,Female,Home,Footwear,Nike Shoes,56011,2,20,Card,7,Yes,4,Referral
+OD1435,3/10/2025,C136,Kolkata,Maharashtra,54,Male,Home,Decor,HP Laptop,57308,2,5,Card,5,No,1,Organic
+OD1436,3/11/2025,C379,Hyderabad,West Bengal,40,Female,Fashion,Decor,Nike Shoes,43331,2,5,COD,5,Yes,4,Email
+OD1437,3/12/2025,C448,Bangalore,Rajasthan,27,Male,Fashion,Clothing,Prestige Cooker,28868,1,0,COD,6,No,4,Organic
+OD1438,3/13/2025,C596,Bangalore,Tamil Nadu,22,Female,Home,Furniture,Samsung Phone,32227,2,5,NetBanking,8,No,4,Organic
+OD1439,3/14/2025,C401,Delhi,Gujarat,53,Female,Electronics,Furniture,Men T-Shirt,18075,1,30,NetBanking,9,No,5,Email
+OD1440,3/15/2025,C280,Mumbai,Delhi,51,Female,Home,Clothing,Office Chair,29500,2,5,UPI,3,No,1,Email
+OD1441,3/16/2025,C706,Mumbai,Telangana,48,Male,Fashion,Accessories,Prestige Cooker,889,3,20,COD,5,No,4,Email
+OD1442,3/17/2025,C198,Pune,Gujarat,27,Male,Electronics,Accessories,Prestige Cooker,45935,1,15,Card,9,No,3,Email
+OD1443,3/18/2025,C799,Hyderabad,Rajasthan,36,Female,Electronics,Mobile,Prestige Cooker,12068,3,15,Card,6,No,5,Ads
+OD1444,3/19/2025,C215,Delhi,Delhi,49,Female,Home,Mobile,Women Kurti,13528,2,40,UPI,5,Yes,3,Referral
+OD1445,3/20/2025,C290,Nagpur,Karnataka,18,Male,Fashion,Furniture,Prestige Cooker,22989,2,40,COD,5,No,3,Referral
+OD1446,3/21/2025,C352,Mumbai,Maharashtra,22,Male,Home,Clothing,Men T-Shirt,46374,2,40,Card,7,Yes,4,Email
+OD1447,3/22/2025,C260,Bangalore,West Bengal,21,Male,Home,Kitchen,Samsung Phone,6366,1,20,UPI,9,No,3,Referral
+OD1448,3/23/2025,C355,Kolkata,Tamil Nadu,33,Male,Home,Decor,Samsung Phone,9620,3,30,UPI,7,No,1,Referral
+OD1449,3/24/2025,C422,Kolkata,Tamil Nadu,41,Female,Electronics,Kitchen,Prestige Cooker,2038,1,5,Card,5,No,3,Referral
+OD1450,3/25/2025,C227,Delhi,Maharashtra,33,Female,Electronics,Clothing,Redmi Phone,17526,1,20,Card,9,No,4,Referral
+OD1451,3/26/2025,C117,Hyderabad,West Bengal,19,Male,Fashion,Mobile,Men T-Shirt,9420,2,0,NetBanking,4,No,3,Email
+OD1452,3/27/2025,C892,Hyderabad,Maharashtra,45,Female,Fashion,Furniture,Men T-Shirt,50934,3,15,COD,9,No,5,Organic
+OD1453,3/28/2025,C834,Chennai,Karnataka,49,Female,Home,Furniture,Boat Earphones,10809,2,40,NetBanking,7,No,5,Organic
+OD1454,3/29/2025,C665,Jaipur,Rajasthan,44,Female,Home,Mobile,Wall Clock,64464,1,10,UPI,3,No,5,Organic
+OD1455,3/30/2025,C669,Mumbai,Delhi,37,Male,Home,Kitchen,HP Laptop,12741,2,0,Card,6,No,2,Ads
+OD1456,3/31/2025,C422,Hyderabad,Gujarat,41,Male,Fashion,Laptop,HP Laptop,9446,3,40,NetBanking,6,Yes,5,Referral
+OD1457,4/1/2025,C971,Bangalore,Tamil Nadu,29,Female,Electronics,Laptop,Redmi Phone,62315,2,30,UPI,8,No,5,Email
+OD1458,4/2/2025,C785,Delhi,Karnataka,52,Female,Electronics,Mobile,HP Laptop,49284,3,0,COD,3,No,2,Email
+OD1459,4/3/2025,C891,Nagpur,Delhi,50,Female,Home,Laptop,Boat Earphones,1006,3,20,Card,3,No,5,Ads
+OD1460,4/4/2025,C725,Chennai,Karnataka,50,Female,Home,Footwear,Nike Shoes,67471,2,5,NetBanking,3,No,4,Email
+OD1461,4/5/2025,C387,Ahmedabad,West Bengal,60,Female,Home,Clothing,HP Laptop,27650,1,15,COD,8,Yes,5,Organic
+OD1462,4/6/2025,C953,Pune,Tamil Nadu,54,Female,Home,Clothing,Men T-Shirt,12117,2,30,NetBanking,3,Yes,5,Ads
+OD1463,4/7/2025,C762,Nagpur,Gujarat,29,Female,Fashion,Mobile,Nike Shoes,16621,1,30,UPI,2,No,2,Email
+OD1464,4/8/2025,C738,Ahmedabad,Maharashtra,20,Male,Electronics,Accessories,HP Laptop,7853,1,10,COD,8,No,4,Ads
+OD1465,4/9/2025,C254,Kolkata,Maharashtra,18,Female,Home,Decor,Men T-Shirt,31478,2,0,NetBanking,6,No,3,Ads
+OD1466,4/10/2025,C589,Pune,Delhi,50,Female,Fashion,Kitchen,Men T-Shirt,53273,1,10,COD,2,No,1,Email
+OD1467,4/11/2025,C485,Mumbai,Gujarat,57,Male,Home,Mobile,Prestige Cooker,5536,1,5,UPI,8,No,4,Organic
+OD1468,4/12/2025,C884,Bangalore,Rajasthan,27,Female,Home,Laptop,Samsung Phone,29132,2,40,COD,5,No,3,Email
+OD1469,4/13/2025,C203,Pune,Telangana,60,Male,Electronics,Kitchen,Redmi Phone,24994,2,5,NetBanking,5,No,4,Referral
+OD1470,4/14/2025,C492,Jaipur,West Bengal,46,Female,Home,Accessories,Boat Earphones,65049,2,40,UPI,6,No,3,Referral
+OD1471,4/15/2025,C910,Ahmedabad,Delhi,30,Male,Electronics,Laptop,Women Kurti,36982,1,10,Card,5,No,3,Email
+OD1472,4/16/2025,C345,Mumbai,Telangana,29,Female,Electronics,Furniture,Wall Clock,34568,3,15,NetBanking,3,No,4,Organic
+OD1473,4/17/2025,C275,Jaipur,Karnataka,48,Female,Electronics,Decor,HP Laptop,7869,1,5,NetBanking,8,No,2,Referral
+OD1474,4/18/2025,C138,Kolkata,West Bengal,19,Male,Fashion,Footwear,HP Laptop,39632,3,10,UPI,2,No,4,Referral
+OD1475,4/19/2025,C576,Jaipur,Karnataka,52,Male,Fashion,Laptop,Nike Shoes,1191,2,0,UPI,3,No,4,Email
+OD1476,4/20/2025,C781,Chennai,Rajasthan,40,Female,Electronics,Footwear,Nike Shoes,29425,3,10,Card,5,No,3,Email
+OD1477,4/21/2025,C858,Chennai,Gujarat,34,Male,Home,Kitchen,Wall Clock,43889,2,10,NetBanking,7,No,1,Email
+OD1478,4/22/2025,C637,Delhi,Tamil Nadu,43,Male,Electronics,Footwear,HP Laptop,50092,2,20,UPI,9,No,3,Ads
+OD1479,4/23/2025,C966,Nagpur,West Bengal,25,Female,Home,Kitchen,Office Chair,5708,3,5,Card,2,No,5,Ads
+OD1480,4/24/2025,C917,Nagpur,Telangana,46,Female,Electronics,Kitchen,Boat Earphones,7032,2,15,Card,3,No,4,Ads
+OD1481,4/25/2025,C507,Mumbai,Rajasthan,43,Female,Home,Kitchen,HP Laptop,7710,3,15,UPI,8,No,4,Email
+OD1482,4/26/2025,C624,Kolkata,Tamil Nadu,27,Male,Fashion,Kitchen,Samsung Phone,10426,2,20,NetBanking,6,No,2,Organic
+OD1483,4/27/2025,C927,Hyderabad,Maharashtra,43,Female,Home,Kitchen,Wall Clock,25093,1,40,COD,3,No,3,Referral
+OD1484,4/28/2025,C605,Chennai,Telangana,51,Male,Electronics,Laptop,Office Chair,8432,1,30,COD,7,Yes,2,Ads
+OD1485,4/29/2025,C924,Mumbai,Delhi,58,Male,Fashion,Kitchen,Boat Earphones,41195,2,40,Card,5,No,4,Organic
+OD1486,4/30/2025,C135,Hyderabad,Maharashtra,24,Female,Home,Laptop,HP Laptop,65948,2,15,COD,2,No,3,Email
+OD1487,5/1/2025,C784,Nagpur,Rajasthan,21,Male,Home,Kitchen,Women Kurti,68115,3,10,COD,6,Yes,3,Ads
+OD1488,5/2/2025,C119,Delhi,Maharashtra,28,Male,Home,Footwear,Prestige Cooker,6588,1,20,UPI,2,Yes,5,Email
+OD1489,5/3/2025,C420,Jaipur,Delhi,46,Female,Home,Furniture,Samsung Phone,57047,3,0,Card,6,No,5,Organic
+OD1490,5/4/2025,C875,Chennai,West Bengal,53,Male,Home,Kitchen,Women Kurti,26622,2,5,NetBanking,9,No,1,Ads
+OD1491,5/5/2025,C611,Mumbai,Maharashtra,42,Female,Fashion,Accessories,Nike Shoes,8296,2,5,Card,8,No,5,Ads
+OD1492,5/6/2025,C499,Pune,Gujarat,38,Male,Fashion,Kitchen,Nike Shoes,50512,3,5,UPI,2,No,3,Ads
+OD1493,5/7/2025,C753,Hyderabad,Telangana,53,Male,Fashion,Kitchen,HP Laptop,8845,2,10,COD,5,No,5,Ads
+OD1494,5/8/2025,C982,Jaipur,Tamil Nadu,27,Male,Fashion,Footwear,Nike Shoes,34171,1,0,NetBanking,8,No,1,Organic
+OD1495,5/9/2025,C570,Chennai,Maharashtra,54,Female,Electronics,Decor,Samsung Phone,18152,3,20,Card,8,No,4,Ads
+OD1496,5/10/2025,C242,Nagpur,Telangana,26,Female,Fashion,Clothing,Boat Earphones,50055,1,20,COD,9,No,5,Referral
+OD1497,5/11/2025,C191,Kolkata,Karnataka,41,Female,Home,Footwear,Men T-Shirt,26639,1,5,Card,6,No,3,Referral
+OD1498,5/12/2025,C453,Hyderabad,Telangana,52,Female,Home,Accessories,Redmi Phone,1683,1,0,NetBanking,4,Yes,4,Email
+OD1499,5/13/2025,C933,Nagpur,Tamil Nadu,52,Female,Fashion,Clothing,Wall Clock,34992,3,0,Card,2,No,3,Ads
+OD1500,5/14/2025,C899,Chennai,Telangana,53,Male,Home,Mobile,Boat Earphones,44647,2,0,Card,2,No,4,Referral
+OD1501,5/15/2025,C826,Hyderabad,Delhi,35,Male,Fashion,Mobile,Men T-Shirt,25345,1,15,Card,3,Yes,3,Referral
+OD1502,5/16/2025,C953,Jaipur,Rajasthan,56,Female,Home,Decor,Office Chair,22694,1,15,COD,6,No,5,Referral
+OD1503,5/17/2025,C150,Chennai,Tamil Nadu,49,Female,Electronics,Accessories,Samsung Phone,6105,1,5,NetBanking,7,No,5,Organic
+OD1504,5/18/2025,C764,Ahmedabad,Rajasthan,41,Female,Electronics,Footwear,Women Kurti,4455,2,0,NetBanking,4,No,1,Ads
+OD1505,5/19/2025,C797,Mumbai,West Bengal,40,Female,Fashion,Laptop,Men T-Shirt,17054,2,30,COD,5,No,4,Organic
+OD1506,5/20/2025,C674,Jaipur,Rajasthan,49,Male,Fashion,Accessories,Samsung Phone,19189,3,0,COD,3,No,1,Organic
+OD1507,5/21/2025,C289,Hyderabad,Karnataka,54,Male,Fashion,Furniture,Prestige Cooker,59001,2,20,COD,9,No,2,Referral
+OD1508,5/22/2025,C224,Kolkata,Delhi,29,Male,Home,Clothing,Women Kurti,49348,3,20,UPI,4,No,5,Referral
+OD1509,5/23/2025,C249,Nagpur,West Bengal,30,Female,Fashion,Clothing,Nike Shoes,26846,3,5,Card,6,Yes,4,Email
+OD1510,5/24/2025,C413,Pune,Telangana,40,Male,Electronics,Kitchen,Nike Shoes,49555,3,30,Card,4,No,1,Ads
+OD1511,5/25/2025,C669,Nagpur,Tamil Nadu,42,Male,Home,Mobile,Women Kurti,64350,3,0,NetBanking,9,No,1,Ads
+OD1512,5/26/2025,C441,Hyderabad,Karnataka,52,Male,Fashion,Decor,Office Chair,42349,3,40,Card,8,Yes,2,Referral
+OD1513,5/27/2025,C404,Nagpur,Delhi,58,Male,Home,Clothing,Office Chair,28342,1,30,UPI,2,No,1,Referral
+OD1514,5/28/2025,C791,Mumbai,West Bengal,47,Female,Home,Accessories,Office Chair,62819,2,5,COD,8,No,3,Ads
+OD1515,5/29/2025,C781,Chennai,West Bengal,34,Female,Fashion,Clothing,Men T-Shirt,30292,1,20,NetBanking,2,No,5,Email
+OD1516,5/30/2025,C937,Pune,Karnataka,37,Male,Home,Decor,Wall Clock,40015,3,40,NetBanking,3,No,1,Referral
+OD1517,5/31/2025,C882,Bangalore,Gujarat,42,Male,Electronics,Decor,Men T-Shirt,18356,2,20,Card,9,No,1,Email
+OD1518,6/1/2025,C153,Hyderabad,Telangana,39,Male,Electronics,Decor,HP Laptop,20126,1,15,NetBanking,6,No,2,Organic
+OD1519,6/2/2025,C543,Delhi,Karnataka,30,Male,Home,Accessories,Redmi Phone,62321,1,5,COD,6,No,3,Referral
+OD1520,6/3/2025,C712,Bangalore,West Bengal,36,Male,Fashion,Laptop,Women Kurti,52747,3,5,NetBanking,4,No,1,Organic
+OD1521,6/4/2025,C363,Nagpur,Maharashtra,53,Female,Home,Kitchen,Boat Earphones,56297,1,0,COD,3,Yes,5,Referral
+OD1522,6/5/2025,C152,Hyderabad,Delhi,29,Male,Electronics,Mobile,Redmi Phone,44615,1,0,UPI,6,No,5,Organic
+OD1523,6/6/2025,C671,Ahmedabad,Karnataka,58,Male,Home,Clothing,Prestige Cooker,29056,1,15,UPI,7,No,1,Referral
+OD1524,6/7/2025,C719,Delhi,Gujarat,36,Male,Home,Accessories,Men T-Shirt,43113,1,40,COD,7,No,3,Email
+OD1525,6/8/2025,C104,Pune,West Bengal,29,Female,Electronics,Footwear,Men T-Shirt,13219,1,10,Card,8,No,5,Email
+OD1526,6/9/2025,C202,Kolkata,Telangana,26,Female,Home,Mobile,Samsung Phone,58107,3,30,NetBanking,2,No,5,Email
+OD1527,6/10/2025,C295,Ahmedabad,Rajasthan,24,Male,Home,Laptop,Redmi Phone,36391,3,10,Card,4,Yes,3,Organic
+OD1528,6/11/2025,C873,Bangalore,West Bengal,45,Female,Fashion,Accessories,Samsung Phone,1423,1,10,NetBanking,5,No,3,Email
+OD1529,6/12/2025,C976,Chennai,Telangana,31,Female,Fashion,Furniture,Boat Earphones,51821,3,5,UPI,9,No,1,Organic
+OD1530,6/13/2025,C983,Mumbai,Karnataka,48,Male,Electronics,Furniture,Samsung Phone,26977,3,30,UPI,2,No,4,Referral
+OD1531,6/14/2025,C449,Kolkata,Telangana,36,Female,Electronics,Kitchen,Redmi Phone,46917,2,5,UPI,3,No,2,Organic
+OD1532,6/15/2025,C146,Ahmedabad,Tamil Nadu,33,Male,Electronics,Kitchen,Women Kurti,62716,1,30,NetBanking,6,No,4,Referral
+OD1533,6/16/2025,C966,Chennai,Tamil Nadu,22,Female,Fashion,Laptop,Prestige Cooker,12280,3,20,UPI,2,No,4,Ads
+OD1534,6/17/2025,C922,Chennai,Tamil Nadu,52,Female,Electronics,Laptop,Men T-Shirt,6014,3,5,UPI,5,No,5,Ads
+OD1535,6/18/2025,C919,Hyderabad,Gujarat,29,Female,Electronics,Kitchen,Boat Earphones,36632,1,5,UPI,5,No,3,Ads
+OD1536,6/19/2025,C755,Ahmedabad,Gujarat,42,Male,Electronics,Clothing,Men T-Shirt,9594,2,5,UPI,7,No,5,Organic
+OD1537,6/20/2025,C368,Pune,Maharashtra,38,Male,Fashion,Clothing,HP Laptop,20969,1,40,Card,3,No,2,Ads
+OD1538,6/21/2025,C469,Nagpur,Gujarat,53,Male,Home,Accessories,Prestige Cooker,43628,2,15,UPI,2,Yes,1,Ads
+OD1539,6/22/2025,C735,Delhi,Rajasthan,40,Male,Electronics,Footwear,Wall Clock,9030,1,5,UPI,4,No,2,Ads
+OD1540,6/23/2025,C205,Delhi,Karnataka,33,Male,Home,Accessories,Samsung Phone,37537,1,0,Card,2,No,5,Referral
+OD1541,6/24/2025,C769,Bangalore,West Bengal,56,Male,Electronics,Footwear,Nike Shoes,43173,1,0,Card,7,No,5,Email
+OD1542,6/25/2025,C758,Bangalore,West Bengal,59,Female,Home,Laptop,Redmi Phone,30330,1,30,NetBanking,8,No,5,Organic
+OD1543,6/26/2025,C756,Delhi,Maharashtra,56,Female,Fashion,Mobile,Men T-Shirt,57673,2,20,COD,5,Yes,5,Ads
+OD1544,6/27/2025,C219,Pune,Gujarat,31,Female,Fashion,Accessories,Samsung Phone,11778,2,15,UPI,3,No,4,Referral
+OD1545,6/28/2025,C930,Mumbai,Rajasthan,48,Female,Electronics,Accessories,Boat Earphones,38719,3,40,UPI,3,No,1,Email
+OD1546,6/29/2025,C886,Jaipur,Telangana,22,Female,Home,Footwear,Men T-Shirt,61109,1,30,UPI,4,No,4,Email
+OD1547,6/30/2025,C703,Nagpur,Maharashtra,52,Male,Fashion,Decor,Wall Clock,53218,2,0,NetBanking,3,No,5,Email
+OD1548,7/1/2025,C157,Mumbai,Rajasthan,40,Male,Electronics,Laptop,Prestige Cooker,53550,2,15,UPI,7,No,3,Referral
+OD1549,7/2/2025,C445,Hyderabad,Telangana,46,Male,Electronics,Laptop,Prestige Cooker,57151,2,15,COD,7,Yes,4,Ads
+OD1550,7/3/2025,C840,Jaipur,Rajasthan,60,Male,Fashion,Furniture,Men T-Shirt,66023,1,20,Card,7,No,5,Email
+OD1551,7/4/2025,C573,Jaipur,Telangana,28,Male,Fashion,Decor,Boat Earphones,6969,3,15,NetBanking,3,No,5,Referral
+OD1552,7/5/2025,C216,Ahmedabad,Delhi,35,Female,Electronics,Footwear,Prestige Cooker,68097,2,5,Card,3,Yes,1,Referral
+OD1553,7/6/2025,C929,Pune,Rajasthan,29,Male,Home,Laptop,Prestige Cooker,42297,1,15,UPI,7,No,2,Organic
+OD1554,7/7/2025,C890,Pune,West Bengal,26,Male,Home,Decor,Wall Clock,53972,2,20,UPI,3,No,4,Referral
+OD1555,7/8/2025,C226,Jaipur,Tamil Nadu,27,Female,Home,Kitchen,Redmi Phone,20379,2,30,UPI,9,No,4,Email
+OD1556,7/9/2025,C492,Ahmedabad,Gujarat,34,Female,Electronics,Decor,Boat Earphones,44938,3,20,COD,3,No,4,Email
+OD1557,7/10/2025,C740,Nagpur,Telangana,55,Male,Fashion,Clothing,Boat Earphones,14807,2,40,COD,9,No,5,Referral
+OD1558,7/11/2025,C157,Jaipur,Delhi,24,Female,Electronics,Furniture,Women Kurti,35580,2,20,NetBanking,5,No,1,Email
+OD1559,7/12/2025,C733,Kolkata,Rajasthan,30,Female,Fashion,Kitchen,Women Kurti,50882,1,0,Card,2,No,5,Referral
+OD1560,7/13/2025,C612,Bangalore,West Bengal,57,Male,Home,Mobile,Prestige Cooker,10336,1,5,UPI,6,No,5,Email
+OD1561,7/14/2025,C850,Bangalore,Tamil Nadu,59,Female,Home,Accessories,Nike Shoes,52650,3,0,UPI,9,No,3,Organic
+OD1562,7/15/2025,C901,Mumbai,Telangana,26,Male,Fashion,Furniture,Women Kurti,37323,1,30,UPI,9,No,1,Ads
+OD1563,7/16/2025,C195,Hyderabad,Rajasthan,44,Female,Fashion,Mobile,Prestige Cooker,33572,1,10,UPI,3,No,4,Organic
+OD1564,7/17/2025,C737,Bangalore,Rajasthan,19,Male,Electronics,Accessories,Office Chair,26798,3,30,COD,6,No,2,Organic
+OD1565,7/18/2025,C217,Chennai,Telangana,22,Male,Home,Clothing,HP Laptop,59360,2,5,Card,8,No,4,Ads
+OD1566,7/19/2025,C659,Mumbai,Maharashtra,46,Female,Electronics,Decor,HP Laptop,30562,3,15,Card,6,Yes,5,Email
+OD1567,7/20/2025,C700,Bangalore,Maharashtra,54,Female,Electronics,Laptop,Boat Earphones,69952,1,20,NetBanking,5,No,1,Ads
+OD1568,7/21/2025,C587,Hyderabad,West Bengal,55,Male,Electronics,Kitchen,Nike Shoes,68971,3,10,COD,9,Yes,1,Referral
+OD1569,7/22/2025,C336,Pune,Tamil Nadu,36,Female,Home,Footwear,Wall Clock,15005,2,5,UPI,3,No,1,Ads
+OD1570,7/23/2025,C984,Pune,Telangana,25,Male,Electronics,Kitchen,Redmi Phone,26525,3,0,Card,7,No,3,Organic
+OD1571,7/24/2025,C996,Nagpur,West Bengal,18,Male,Electronics,Clothing,Women Kurti,28171,1,20,Card,6,Yes,4,Ads
+OD1572,7/25/2025,C371,Jaipur,West Bengal,39,Male,Electronics,Mobile,Office Chair,38916,1,30,COD,3,No,3,Email
+OD1573,7/26/2025,C288,Kolkata,Karnataka,34,Female,Electronics,Footwear,Prestige Cooker,52912,3,0,NetBanking,4,Yes,2,Organic
+OD1574,7/27/2025,C803,Pune,Rajasthan,24,Male,Electronics,Laptop,Nike Shoes,65565,2,5,NetBanking,8,No,5,Referral
+OD1575,7/28/2025,C546,Ahmedabad,Gujarat,42,Male,Electronics,Clothing,Boat Earphones,59712,3,5,UPI,7,No,3,Email
+OD1576,7/29/2025,C680,Bangalore,Rajasthan,21,Female,Home,Footwear,Women Kurti,51470,2,30,NetBanking,4,No,3,Organic
+OD1577,7/30/2025,C889,Ahmedabad,Maharashtra,53,Male,Electronics,Clothing,Nike Shoes,27780,2,10,Card,4,No,5,Referral
+OD1578,7/31/2025,C960,Hyderabad,Tamil Nadu,23,Male,Fashion,Decor,Women Kurti,28590,3,30,NetBanking,6,Yes,1,Email
+OD1579,8/1/2025,C346,Pune,Rajasthan,48,Male,Electronics,Clothing,Redmi Phone,50993,2,15,UPI,4,No,5,Referral
+OD1580,8/2/2025,C175,Kolkata,Telangana,36,Male,Electronics,Laptop,Redmi Phone,19109,1,0,Card,5,Yes,4,Ads
+OD1581,8/3/2025,C253,Hyderabad,West Bengal,56,Female,Home,Furniture,Wall Clock,1578,3,10,NetBanking,5,No,5,Ads
+OD1582,8/4/2025,C755,Chennai,Telangana,44,Male,Home,Accessories,HP Laptop,47250,2,20,NetBanking,6,Yes,1,Referral
+OD1583,8/5/2025,C534,Chennai,Karnataka,27,Male,Fashion,Footwear,Samsung Phone,55931,1,40,COD,3,No,5,Ads
+OD1584,8/6/2025,C185,Ahmedabad,Tamil Nadu,43,Male,Fashion,Decor,Samsung Phone,31450,3,15,UPI,2,No,3,Referral
+OD1585,8/7/2025,C796,Jaipur,West Bengal,36,Female,Home,Laptop,Women Kurti,60371,1,10,NetBanking,3,No,2,Email
+OD1586,8/8/2025,C384,Mumbai,Telangana,56,Male,Home,Clothing,Wall Clock,7734,1,40,COD,3,No,3,Organic
+OD1587,8/9/2025,C319,Jaipur,Maharashtra,20,Male,Electronics,Decor,Samsung Phone,63211,1,40,Card,3,No,2,Referral
+OD1588,8/10/2025,C168,Nagpur,Gujarat,30,Male,Home,Laptop,Boat Earphones,21972,2,0,COD,3,Yes,5,Organic
+OD1589,8/11/2025,C146,Jaipur,Karnataka,45,Female,Fashion,Furniture,Samsung Phone,68066,3,5,COD,7,Yes,4,Organic
+OD1590,8/12/2025,C193,Nagpur,Tamil Nadu,37,Female,Electronics,Decor,Men T-Shirt,32729,3,20,NetBanking,2,No,5,Referral
+OD1591,8/13/2025,C849,Nagpur,Karnataka,45,Male,Fashion,Decor,Prestige Cooker,69375,2,30,NetBanking,7,No,1,Ads
+OD1592,8/14/2025,C552,Kolkata,Maharashtra,25,Male,Electronics,Accessories,Wall Clock,41143,3,0,NetBanking,4,No,5,Email
+OD1593,8/15/2025,C303,Pune,Tamil Nadu,58,Female,Home,Kitchen,Boat Earphones,49163,1,15,COD,8,Yes,2,Organic
+OD1594,8/16/2025,C317,Kolkata,Karnataka,56,Female,Fashion,Footwear,Nike Shoes,45702,3,40,Card,3,No,3,Email
+OD1595,8/17/2025,C573,Nagpur,Delhi,18,Female,Electronics,Accessories,Boat Earphones,67176,2,15,UPI,8,Yes,4,Organic
+OD1596,8/18/2025,C531,Hyderabad,Maharashtra,20,Male,Electronics,Mobile,HP Laptop,25924,1,40,COD,5,No,5,Referral
+OD1597,8/19/2025,C440,Chennai,Maharashtra,30,Female,Home,Footwear,Nike Shoes,43313,2,5,NetBanking,6,No,5,Ads
+OD1598,8/20/2025,C650,Nagpur,Maharashtra,45,Male,Home,Accessories,Office Chair,50145,1,5,UPI,6,Yes,3,Email
+OD1599,8/21/2025,C711,Kolkata,Delhi,42,Male,Home,Clothing,Prestige Cooker,40383,1,20,Card,7,No,4,Organic
+OD1600,8/22/2025,C388,Hyderabad,Delhi,50,Male,Fashion,Footwear,Prestige Cooker,69821,3,30,UPI,7,No,5,Referral
+OD1601,8/23/2025,C353,Kolkata,Telangana,55,Male,Electronics,Footwear,Prestige Cooker,22149,1,20,NetBanking,5,No,5,Referral
+OD1602,8/24/2025,C833,Jaipur,West Bengal,23,Male,Home,Laptop,Prestige Cooker,9689,2,5,COD,3,Yes,2,Organic
+OD1603,8/25/2025,C456,Bangalore,Gujarat,49,Male,Fashion,Clothing,Women Kurti,38695,3,5,COD,8,No,2,Organic
+OD1604,8/26/2025,C122,Ahmedabad,Karnataka,38,Male,Fashion,Mobile,Prestige Cooker,39948,2,15,NetBanking,9,No,1,Organic
+OD1605,8/27/2025,C861,Mumbai,Telangana,33,Male,Fashion,Kitchen,Prestige Cooker,40160,1,5,COD,8,No,3,Ads
+OD1606,8/28/2025,C621,Kolkata,Karnataka,38,Female,Home,Decor,Prestige Cooker,30208,2,10,NetBanking,2,No,4,Organic
+OD1607,8/29/2025,C857,Mumbai,Gujarat,28,Male,Home,Furniture,Wall Clock,10442,2,40,COD,4,Yes,5,Organic
+OD1608,8/30/2025,C936,Delhi,West Bengal,54,Female,Electronics,Accessories,Women Kurti,43739,1,0,COD,6,Yes,5,Ads
+OD1609,8/31/2025,C199,Kolkata,Delhi,53,Male,Electronics,Laptop,Redmi Phone,46259,3,5,COD,4,No,1,Referral
+OD1610,9/1/2025,C901,Bangalore,West Bengal,52,Male,Home,Accessories,Boat Earphones,21541,2,20,Card,2,Yes,5,Organic
+OD1611,9/2/2025,C279,Mumbai,Delhi,36,Male,Fashion,Mobile,Boat Earphones,44393,1,30,Card,7,No,3,Email
+OD1612,9/3/2025,C322,Nagpur,Gujarat,37,Male,Fashion,Decor,Nike Shoes,7368,3,40,NetBanking,8,No,1,Referral
+OD1613,9/4/2025,C861,Kolkata,West Bengal,35,Female,Fashion,Mobile,Wall Clock,61577,3,40,Card,6,No,3,Email
+OD1614,9/5/2025,C758,Pune,Telangana,58,Female,Electronics,Footwear,Men T-Shirt,57258,3,30,NetBanking,4,No,1,Organic
+OD1615,9/6/2025,C541,Ahmedabad,Tamil Nadu,31,Male,Fashion,Furniture,Boat Earphones,44805,2,30,UPI,9,No,5,Ads
+OD1616,9/7/2025,C707,Bangalore,Telangana,32,Male,Electronics,Mobile,Samsung Phone,55870,2,40,UPI,7,No,1,Ads
+OD1617,9/8/2025,C868,Mumbai,Karnataka,48,Female,Electronics,Accessories,Men T-Shirt,21417,2,10,Card,2,Yes,2,Ads
+OD1618,9/9/2025,C424,Bangalore,Telangana,18,Female,Fashion,Clothing,Prestige Cooker,28878,3,20,UPI,9,No,4,Organic
+OD1619,9/10/2025,C615,Hyderabad,Gujarat,20,Female,Fashion,Clothing,Prestige Cooker,3461,2,10,UPI,4,No,5,Organic
+OD1620,9/11/2025,C115,Ahmedabad,Maharashtra,33,Male,Home,Footwear,Women Kurti,14350,1,5,COD,9,No,4,Email
+OD1621,9/12/2025,C891,Nagpur,Karnataka,40,Female,Home,Kitchen,Men T-Shirt,46246,2,0,COD,8,No,5,Ads
+OD1622,9/13/2025,C435,Kolkata,West Bengal,28,Male,Fashion,Accessories,Samsung Phone,52848,2,30,NetBanking,3,Yes,4,Organic
+OD1623,9/14/2025,C858,Kolkata,Karnataka,29,Male,Electronics,Accessories,Women Kurti,56855,3,20,UPI,9,No,2,Referral
+OD1624,9/15/2025,C357,Kolkata,Tamil Nadu,27,Male,Electronics,Mobile,Nike Shoes,15244,2,30,NetBanking,7,No,4,Organic
+OD1625,9/16/2025,C596,Ahmedabad,Delhi,49,Female,Electronics,Furniture,Men T-Shirt,6229,1,10,NetBanking,2,No,1,Organic
+OD1626,9/17/2025,C995,Pune,West Bengal,33,Male,Electronics,Accessories,Wall Clock,14420,3,15,UPI,4,No,4,Referral
+OD1627,9/18/2025,C259,Delhi,Rajasthan,25,Female,Electronics,Laptop,Prestige Cooker,19522,1,5,Card,8,No,5,Ads
+OD1628,9/19/2025,C574,Chennai,Karnataka,55,Female,Home,Kitchen,Prestige Cooker,45848,3,0,UPI,3,No,3,Referral
+OD1629,9/20/2025,C951,Jaipur,West Bengal,29,Male,Fashion,Mobile,HP Laptop,42478,3,5,COD,3,No,4,Ads
+OD1630,9/21/2025,C763,Mumbai,West Bengal,41,Female,Home,Laptop,Women Kurti,23336,2,15,UPI,2,No,4,Referral
+OD1631,9/22/2025,C789,Pune,West Bengal,45,Female,Electronics,Footwear,Redmi Phone,15496,1,0,Card,5,No,4,Email
+OD1632,9/23/2025,C774,Nagpur,Delhi,25,Male,Electronics,Clothing,Redmi Phone,45538,3,15,NetBanking,8,Yes,5,Ads
+OD1633,9/24/2025,C479,Mumbai,Rajasthan,45,Male,Electronics,Footwear,Women Kurti,21422,2,5,NetBanking,8,No,4,Organic
+OD1634,9/25/2025,C644,Kolkata,Gujarat,53,Male,Electronics,Clothing,Wall Clock,9375,3,10,COD,6,No,5,Email
+OD1635,9/26/2025,C790,Bangalore,Telangana,43,Male,Fashion,Footwear,Office Chair,61472,3,40,COD,2,No,5,Ads
+OD1636,9/27/2025,C526,Nagpur,West Bengal,25,Female,Electronics,Accessories,Women Kurti,3386,3,5,COD,3,No,3,Ads
+OD1637,9/28/2025,C712,Mumbai,Maharashtra,45,Female,Fashion,Laptop,Wall Clock,64222,3,5,NetBanking,3,No,1,Ads
+OD1638,9/29/2025,C367,Kolkata,Gujarat,45,Female,Electronics,Clothing,Nike Shoes,42921,3,5,COD,9,Yes,5,Referral
+OD1639,9/30/2025,C934,Mumbai,Tamil Nadu,54,Male,Fashion,Mobile,Prestige Cooker,51912,3,20,UPI,2,No,2,Ads
+OD1640,10/1/2025,C676,Bangalore,Delhi,58,Male,Home,Laptop,Samsung Phone,3340,2,15,NetBanking,5,No,4,Organic
+OD1641,10/2/2025,C516,Kolkata,Karnataka,53,Male,Electronics,Mobile,Office Chair,29255,3,15,Card,6,No,2,Ads
+OD1642,10/3/2025,C267,Delhi,Delhi,44,Male,Fashion,Laptop,Men T-Shirt,10803,1,30,NetBanking,4,No,4,Organic
+OD1643,10/4/2025,C941,Pune,Karnataka,34,Male,Home,Laptop,Office Chair,30840,2,15,UPI,2,Yes,3,Organic
+OD1644,10/5/2025,C142,Hyderabad,Delhi,26,Male,Electronics,Footwear,Samsung Phone,5257,1,30,UPI,6,No,5,Organic
+OD1645,10/6/2025,C655,Jaipur,Karnataka,50,Female,Electronics,Clothing,HP Laptop,17509,3,20,COD,8,No,1,Email
+OD1646,10/7/2025,C384,Ahmedabad,West Bengal,37,Male,Electronics,Clothing,Prestige Cooker,61257,1,10,NetBanking,6,Yes,5,Organic
+OD1647,10/8/2025,C496,Jaipur,Telangana,30,Female,Fashion,Furniture,Redmi Phone,32157,3,30,NetBanking,9,No,4,Referral
+OD1648,10/9/2025,C111,Nagpur,Karnataka,45,Male,Fashion,Laptop,Wall Clock,49501,3,5,NetBanking,7,No,1,Ads
+OD1649,10/10/2025,C706,Jaipur,Rajasthan,46,Male,Home,Accessories,Women Kurti,1874,2,10,Card,3,No,5,Referral
+OD1650,10/11/2025,C401,Kolkata,Karnataka,30,Female,Fashion,Accessories,Women Kurti,22591,2,40,COD,9,No,1,Email
+OD1651,10/12/2025,C997,Delhi,Maharashtra,52,Male,Fashion,Mobile,Redmi Phone,989,3,20,UPI,4,No,4,Ads
+OD1652,10/13/2025,C352,Hyderabad,Karnataka,23,Male,Electronics,Mobile,Office Chair,4228,2,15,UPI,2,Yes,3,Organic
+OD1653,10/14/2025,C598,Pune,Maharashtra,35,Male,Electronics,Footwear,Prestige Cooker,6473,1,30,COD,9,Yes,3,Ads
+OD1654,10/15/2025,C853,Pune,Tamil Nadu,22,Female,Electronics,Laptop,Boat Earphones,21897,2,5,UPI,3,No,5,Email
+OD1655,10/16/2025,C134,Bangalore,West Bengal,42,Male,Electronics,Mobile,Wall Clock,35149,2,0,UPI,7,No,2,Email
+OD1656,10/17/2025,C826,Ahmedabad,Maharashtra,19,Female,Electronics,Mobile,Nike Shoes,21791,1,40,COD,9,No,4,Referral
+OD1657,10/18/2025,C948,Mumbai,Telangana,27,Male,Electronics,Kitchen,Samsung Phone,3658,2,0,UPI,7,No,5,Ads
+OD1658,10/19/2025,C189,Delhi,Gujarat,47,Male,Electronics,Laptop,Office Chair,63265,3,10,NetBanking,9,Yes,5,Ads
+OD1659,10/20/2025,C875,Mumbai,West Bengal,22,Male,Home,Decor,Men T-Shirt,17564,1,15,Card,3,No,3,Ads
+OD1660,10/21/2025,C704,Hyderabad,Maharashtra,50,Male,Home,Footwear,HP Laptop,22137,3,0,COD,5,Yes,1,Referral
+OD1661,10/22/2025,C701,Jaipur,West Bengal,18,Female,Home,Mobile,Women Kurti,1572,1,10,Card,6,Yes,4,Email
+OD1662,10/23/2025,C517,Pune,Rajasthan,35,Male,Home,Footwear,Office Chair,47010,3,20,UPI,2,No,1,Organic
+OD1663,10/24/2025,C214,Hyderabad,West Bengal,49,Male,Electronics,Clothing,HP Laptop,29819,3,10,UPI,2,No,4,Ads
+OD1664,10/25/2025,C716,Jaipur,West Bengal,28,Male,Home,Footwear,Samsung Phone,35423,2,40,NetBanking,2,No,2,Referral
+OD1665,10/26/2025,C295,Pune,Tamil Nadu,38,Female,Electronics,Decor,Women Kurti,41233,3,10,COD,3,No,3,Referral
+OD1666,10/27/2025,C925,Jaipur,Telangana,43,Female,Home,Accessories,Women Kurti,68615,2,40,UPI,8,Yes,2,Organic
+OD1667,10/28/2025,C600,Ahmedabad,Delhi,42,Female,Fashion,Decor,Boat Earphones,40524,1,10,COD,5,Yes,5,Email
+OD1668,10/29/2025,C725,Delhi,Delhi,39,Male,Home,Accessories,Office Chair,2658,3,5,COD,4,No,3,Ads
+OD1669,10/30/2025,C592,Nagpur,Maharashtra,44,Male,Home,Footwear,Prestige Cooker,49439,3,10,COD,7,Yes,5,Ads
+OD1670,10/31/2025,C174,Hyderabad,West Bengal,30,Female,Electronics,Accessories,Redmi Phone,15177,1,30,COD,3,No,2,Referral
+OD1671,11/1/2025,C512,Hyderabad,Maharashtra,50,Female,Home,Clothing,Redmi Phone,61574,1,10,COD,8,Yes,4,Email
+OD1672,11/2/2025,C475,Chennai,Tamil Nadu,51,Male,Fashion,Laptop,Nike Shoes,47703,3,5,Card,4,No,5,Ads
+OD1673,11/3/2025,C519,Kolkata,Tamil Nadu,58,Female,Electronics,Accessories,Men T-Shirt,12520,1,5,NetBanking,7,Yes,1,Organic
+OD1674,11/4/2025,C828,Ahmedabad,Karnataka,52,Male,Electronics,Accessories,HP Laptop,7271,2,20,COD,7,Yes,4,Email
+OD1675,11/5/2025,C376,Ahmedabad,Rajasthan,18,Female,Home,Footwear,Office Chair,67662,1,40,Card,5,No,4,Email
+OD1676,11/6/2025,C860,Mumbai,Tamil Nadu,38,Female,Electronics,Clothing,Wall Clock,23963,1,15,UPI,6,No,2,Referral
+OD1677,11/7/2025,C775,Jaipur,Karnataka,23,Female,Electronics,Furniture,Men T-Shirt,51636,3,0,COD,2,Yes,2,Referral
+OD1678,11/8/2025,C493,Kolkata,Telangana,45,Male,Electronics,Furniture,Boat Earphones,30731,2,0,UPI,9,No,3,Ads
+OD1679,11/9/2025,C968,Delhi,Maharashtra,34,Female,Electronics,Furniture,Women Kurti,61996,1,10,COD,4,No,3,Referral
+OD1680,11/10/2025,C556,Delhi,Gujarat,22,Female,Electronics,Furniture,Prestige Cooker,51947,2,20,Card,3,No,1,Email
+OD1681,11/11/2025,C291,Ahmedabad,Telangana,48,Male,Electronics,Laptop,Office Chair,1400,2,10,Card,4,No,4,Ads
+OD1682,11/12/2025,C838,Delhi,Tamil Nadu,22,Male,Fashion,Decor,Men T-Shirt,3380,2,0,Card,6,Yes,1,Ads
+OD1683,11/13/2025,C788,Chennai,Telangana,55,Female,Home,Footwear,Men T-Shirt,30362,3,40,NetBanking,2,No,1,Email
+OD1684,11/14/2025,C198,Hyderabad,Telangana,20,Male,Fashion,Footwear,Prestige Cooker,6121,1,40,UPI,4,No,2,Ads
+OD1685,11/15/2025,C647,Bangalore,Rajasthan,40,Female,Electronics,Kitchen,Nike Shoes,1877,3,40,NetBanking,6,No,1,Organic
+OD1686,11/16/2025,C195,Nagpur,Rajasthan,54,Male,Electronics,Clothing,HP Laptop,45700,1,5,COD,3,No,1,Organic
+OD1687,11/17/2025,C763,Mumbai,Rajasthan,54,Female,Home,Furniture,HP Laptop,59750,1,15,UPI,5,No,5,Ads
+OD1688,11/18/2025,C762,Jaipur,Telangana,27,Female,Fashion,Laptop,Men T-Shirt,39754,3,20,Card,8,No,3,Referral
+OD1689,11/19/2025,C289,Nagpur,Tamil Nadu,27,Male,Home,Clothing,Samsung Phone,63711,2,5,UPI,7,No,3,Organic
+OD1690,11/20/2025,C835,Jaipur,Gujarat,36,Male,Fashion,Furniture,Men T-Shirt,50709,2,15,Card,3,No,4,Ads
+OD1691,11/21/2025,C136,Pune,West Bengal,34,Female,Electronics,Laptop,Men T-Shirt,22998,1,20,NetBanking,2,Yes,3,Organic
+OD1692,11/22/2025,C879,Nagpur,Telangana,38,Male,Home,Clothing,Prestige Cooker,52127,3,20,NetBanking,7,No,4,Referral
+OD1693,11/23/2025,C468,Bangalore,Karnataka,31,Male,Home,Footwear,Women Kurti,61859,2,0,Card,8,Yes,5,Email
+OD1694,11/24/2025,C794,Ahmedabad,Tamil Nadu,26,Female,Electronics,Footwear,Prestige Cooker,5102,2,5,Card,3,No,3,Ads
+OD1695,11/25/2025,C624,Chennai,Telangana,18,Male,Home,Decor,Office Chair,13131,1,20,COD,9,No,5,Ads
+OD1696,11/26/2025,C378,Hyderabad,Gujarat,30,Male,Fashion,Mobile,Men T-Shirt,31106,1,30,NetBanking,3,No,3,Ads
+OD1697,11/27/2025,C316,Hyderabad,West Bengal,21,Male,Fashion,Decor,HP Laptop,66255,3,40,NetBanking,3,No,3,Ads
+OD1698,11/28/2025,C966,Chennai,Rajasthan,18,Female,Fashion,Accessories,Wall Clock,47493,1,20,COD,9,Yes,5,Ads
+OD1699,11/29/2025,C972,Kolkata,Tamil Nadu,57,Female,Fashion,Decor,HP Laptop,63881,2,15,NetBanking,3,Yes,1,Ads
+OD1700,11/30/2025,C897,Pune,Delhi,49,Female,Electronics,Furniture,Redmi Phone,56843,2,0,Card,7,No,1,Referral
+OD1701,12/1/2025,C372,Jaipur,West Bengal,51,Male,Home,Kitchen,Nike Shoes,54274,2,10,UPI,2,Yes,1,Email
+OD1702,12/2/2025,C980,Bangalore,Karnataka,45,Female,Fashion,Clothing,Boat Earphones,7848,2,40,UPI,8,No,1,Referral
+OD1703,12/3/2025,C161,Delhi,Telangana,48,Male,Electronics,Kitchen,Office Chair,27963,3,0,NetBanking,6,No,3,Referral
+OD1704,12/4/2025,C695,Nagpur,Gujarat,25,Male,Home,Mobile,Office Chair,43123,3,10,COD,4,No,2,Email
+OD1705,12/5/2025,C979,Pune,Delhi,56,Male,Home,Accessories,Nike Shoes,37843,1,5,Card,9,No,5,Referral
+OD1706,12/6/2025,C828,Nagpur,Gujarat,43,Female,Electronics,Clothing,Wall Clock,24798,1,5,UPI,5,No,2,Organic
+OD1707,12/7/2025,C441,Bangalore,Delhi,51,Male,Electronics,Laptop,Boat Earphones,48474,1,20,Card,9,No,2,Referral
+OD1708,12/8/2025,C496,Mumbai,Tamil Nadu,20,Male,Fashion,Furniture,Women Kurti,1961,3,30,NetBanking,8,No,4,Ads
+OD1709,12/9/2025,C798,Mumbai,Delhi,29,Female,Home,Accessories,Men T-Shirt,41080,2,5,NetBanking,4,No,1,Organic
+OD1710,12/10/2025,C118,Pune,Karnataka,18,Male,Home,Footwear,Boat Earphones,14674,1,20,UPI,4,No,3,Organic
+OD1711,12/11/2025,C276,Ahmedabad,Karnataka,22,Female,Electronics,Mobile,Wall Clock,6690,2,40,NetBanking,5,Yes,1,Email
+OD1712,12/12/2025,C711,Bangalore,Maharashtra,47,Male,Home,Accessories,Samsung Phone,67036,1,0,COD,8,Yes,1,Referral
+OD1713,12/13/2025,C495,Bangalore,Karnataka,47,Male,Fashion,Furniture,Redmi Phone,48144,1,5,NetBanking,7,No,2,Referral
+OD1714,12/14/2025,C544,Chennai,West Bengal,34,Male,Home,Decor,Boat Earphones,23782,1,0,NetBanking,2,No,4,Organic
+OD1715,12/15/2025,C332,Ahmedabad,Delhi,40,Male,Electronics,Accessories,Boat Earphones,59622,1,0,NetBanking,5,No,1,Referral
+OD1716,12/16/2025,C175,Jaipur,Karnataka,32,Female,Electronics,Decor,Redmi Phone,30523,1,30,Card,2,No,5,Referral
+OD1717,12/17/2025,C364,Jaipur,Tamil Nadu,54,Male,Fashion,Furniture,Men T-Shirt,50129,2,5,Card,7,No,5,Email
+OD1718,12/18/2025,C554,Delhi,Gujarat,38,Female,Fashion,Footwear,Boat Earphones,31233,1,0,UPI,4,No,1,Organic
+OD1719,12/19/2025,C895,Hyderabad,Rajasthan,31,Male,Home,Clothing,Redmi Phone,1014,2,30,UPI,2,No,2,Ads
+OD1720,12/20/2025,C817,Mumbai,Gujarat,19,Female,Home,Laptop,Redmi Phone,67226,3,30,UPI,7,No,2,Organic
+OD1721,12/21/2025,C834,Jaipur,Maharashtra,28,Male,Electronics,Footwear,Redmi Phone,46715,1,5,NetBanking,7,No,3,Email
+OD1722,12/22/2025,C483,Ahmedabad,Gujarat,56,Female,Fashion,Decor,Prestige Cooker,59254,2,30,Card,6,No,4,Email
+OD1723,12/23/2025,C663,Bangalore,Delhi,55,Male,Fashion,Decor,Wall Clock,28355,3,5,COD,5,No,2,Email
+OD1724,12/24/2025,C950,Jaipur,Maharashtra,51,Male,Fashion,Laptop,Prestige Cooker,24661,3,5,NetBanking,6,No,3,Referral
+OD1725,12/25/2025,C605,Bangalore,Delhi,55,Female,Home,Clothing,Samsung Phone,6507,3,10,NetBanking,9,No,5,Organic
+OD1726,12/26/2025,C466,Jaipur,Tamil Nadu,51,Female,Fashion,Accessories,Women Kurti,8486,2,0,NetBanking,4,Yes,5,Referral
+OD1727,12/27/2025,C243,Mumbai,Maharashtra,35,Male,Electronics,Laptop,Prestige Cooker,63031,1,15,COD,5,No,5,Referral
+OD1728,12/28/2025,C984,Nagpur,Telangana,47,Male,Electronics,Mobile,Prestige Cooker,3831,1,5,UPI,4,No,1,Organic
+OD1729,12/29/2025,C168,Jaipur,West Bengal,32,Female,Home,Mobile,Wall Clock,66822,2,0,COD,6,No,4,Email
+OD1730,12/30/2025,C198,Ahmedabad,West Bengal,44,Female,Home,Furniture,Women Kurti,39489,1,40,UPI,8,No,3,Ads
+OD1731,12/31/2025,C495,Jaipur,Delhi,51,Female,Fashion,Footwear,Nike Shoes,10372,2,30,COD,7,No,4,Ads
+OD1732,1/1/2026,C124,Hyderabad,Gujarat,55,Female,Home,Decor,Redmi Phone,36943,1,20,Card,4,No,1,Organic
+OD1733,1/2/2026,C990,Mumbai,Rajasthan,50,Female,Electronics,Clothing,Office Chair,35839,3,5,NetBanking,5,No,3,Organic
+OD1734,1/3/2026,C568,Ahmedabad,Rajasthan,41,Male,Fashion,Furniture,Women Kurti,5532,1,30,NetBanking,9,No,3,Email
+OD1735,1/4/2026,C583,Chennai,Telangana,32,Female,Electronics,Footwear,Samsung Phone,16188,2,30,NetBanking,5,No,2,Organic
+OD1736,1/5/2026,C664,Ahmedabad,Maharashtra,47,Male,Fashion,Footwear,Men T-Shirt,565,2,30,UPI,4,No,4,Organic
+OD1737,1/6/2026,C250,Hyderabad,Telangana,59,Female,Home,Furniture,Samsung Phone,45745,3,30,COD,5,No,4,Email
+OD1738,1/7/2026,C243,Nagpur,Telangana,34,Male,Fashion,Kitchen,Redmi Phone,8032,2,30,Card,9,No,2,Email
+OD1739,1/8/2026,C668,Mumbai,Gujarat,22,Male,Fashion,Footwear,Women Kurti,60157,1,5,COD,7,No,5,Referral
+OD1740,1/9/2026,C138,Chennai,Rajasthan,46,Male,Electronics,Kitchen,Samsung Phone,38997,1,40,NetBanking,8,No,1,Organic
+OD1741,1/10/2026,C208,Hyderabad,Maharashtra,21,Female,Electronics,Mobile,Samsung Phone,12271,3,15,Card,7,No,4,Ads
+OD1742,1/11/2026,C792,Hyderabad,Tamil Nadu,27,Male,Fashion,Mobile,Nike Shoes,49535,2,10,Card,5,No,2,Organic
+OD1743,1/12/2026,C141,Pune,Gujarat,34,Female,Home,Footwear,Nike Shoes,59030,3,30,NetBanking,9,No,3,Ads
+OD1744,1/13/2026,C285,Mumbai,Telangana,27,Female,Home,Mobile,Women Kurti,13439,1,30,COD,9,No,2,Ads
+OD1745,1/14/2026,C497,Ahmedabad,Telangana,34,Male,Electronics,Clothing,Redmi Phone,17431,3,10,NetBanking,4,No,5,Ads
+OD1746,1/15/2026,C322,Bangalore,Tamil Nadu,37,Male,Home,Kitchen,Prestige Cooker,57326,2,40,COD,6,Yes,1,Referral
+OD1747,1/16/2026,C733,Nagpur,Telangana,41,Female,Electronics,Kitchen,HP Laptop,61930,3,40,Card,5,Yes,5,Email
+OD1748,1/17/2026,C232,Bangalore,Telangana,22,Male,Home,Footwear,Boat Earphones,25147,2,5,Card,5,No,3,Email
+OD1749,1/18/2026,C262,Ahmedabad,Telangana,51,Female,Fashion,Mobile,Office Chair,33465,2,0,NetBanking,5,No,3,Referral
+OD1750,1/19/2026,C314,Ahmedabad,West Bengal,23,Female,Electronics,Laptop,Boat Earphones,28276,1,20,Card,5,Yes,3,Email
+OD1751,1/20/2026,C832,Mumbai,Gujarat,19,Female,Electronics,Decor,Wall Clock,33066,1,20,UPI,4,No,3,Referral
+OD1752,1/21/2026,C334,Ahmedabad,Karnataka,30,Female,Fashion,Furniture,Nike Shoes,17673,1,0,Card,6,No,2,Organic
+OD1753,1/22/2026,C942,Pune,Gujarat,60,Male,Electronics,Furniture,Women Kurti,43097,2,5,UPI,6,No,3,Referral
+OD1754,1/23/2026,C757,Chennai,Tamil Nadu,60,Male,Home,Kitchen,Boat Earphones,59698,3,20,Card,2,No,3,Email
+OD1755,1/24/2026,C850,Ahmedabad,Telangana,28,Male,Home,Footwear,Redmi Phone,14297,2,40,NetBanking,5,No,2,Email
+OD1756,1/25/2026,C687,Bangalore,Gujarat,40,Female,Electronics,Footwear,Office Chair,65863,1,10,NetBanking,5,No,3,Organic
+OD1757,1/26/2026,C108,Ahmedabad,West Bengal,33,Female,Home,Clothing,Boat Earphones,18057,1,0,UPI,2,No,5,Referral
+OD1758,1/27/2026,C173,Pune,Rajasthan,48,Female,Electronics,Accessories,Office Chair,61583,3,40,NetBanking,6,Yes,5,Organic
+OD1759,1/28/2026,C591,Jaipur,Tamil Nadu,28,Female,Fashion,Decor,Men T-Shirt,44736,1,15,Card,9,No,4,Ads
+OD1760,1/29/2026,C352,Jaipur,Delhi,33,Female,Electronics,Accessories,Redmi Phone,65996,1,5,Card,9,No,5,Referral
+OD1761,1/30/2026,C329,Hyderabad,Gujarat,25,Male,Fashion,Kitchen,HP Laptop,677,1,0,NetBanking,3,Yes,1,Organic
+OD1762,1/31/2026,C618,Nagpur,Delhi,21,Male,Home,Furniture,Samsung Phone,17617,3,20,Card,7,No,1,Organic
+OD1763,2/1/2026,C273,Delhi,Telangana,57,Male,Fashion,Clothing,Office Chair,23115,2,5,COD,3,No,1,Email
+OD1764,2/2/2026,C752,Chennai,West Bengal,21,Male,Home,Clothing,Redmi Phone,1297,1,10,COD,6,No,2,Referral
+OD1765,2/3/2026,C267,Kolkata,West Bengal,42,Female,Electronics,Clothing,Office Chair,8100,3,5,Card,8,No,5,Ads
+OD1766,2/4/2026,C269,Hyderabad,Gujarat,20,Male,Home,Kitchen,Office Chair,25862,1,5,NetBanking,5,No,1,Ads
+OD1767,2/5/2026,C492,Nagpur,Tamil Nadu,49,Female,Electronics,Accessories,Prestige Cooker,3294,3,10,UPI,3,No,4,Referral
+OD1768,2/6/2026,C894,Jaipur,Tamil Nadu,20,Female,Electronics,Furniture,Prestige Cooker,45763,1,30,NetBanking,4,No,2,Referral
+OD1769,2/7/2026,C733,Bangalore,West Bengal,44,Male,Fashion,Clothing,Redmi Phone,3583,3,10,UPI,9,No,4,Organic
+OD1770,2/8/2026,C293,Kolkata,Tamil Nadu,46,Female,Fashion,Furniture,Prestige Cooker,1230,1,40,NetBanking,4,Yes,5,Email
+OD1771,2/9/2026,C616,Nagpur,West Bengal,49,Male,Fashion,Mobile,Wall Clock,1628,2,5,Card,2,No,3,Email
+OD1772,2/10/2026,C128,Nagpur,Gujarat,36,Female,Fashion,Footwear,HP Laptop,28521,1,10,COD,6,No,4,Email
+OD1773,2/11/2026,C264,Hyderabad,Karnataka,38,Male,Home,Footwear,Women Kurti,2104,3,30,NetBanking,6,No,3,Referral
+OD1774,2/12/2026,C521,Kolkata,West Bengal,22,Male,Home,Furniture,Redmi Phone,44629,1,40,UPI,3,No,2,Email
+OD1775,2/13/2026,C438,Mumbai,Delhi,35,Female,Home,Laptop,Redmi Phone,29764,2,0,COD,5,No,4,Organic
+OD1776,2/14/2026,C747,Delhi,Tamil Nadu,45,Male,Electronics,Laptop,Wall Clock,32829,1,10,UPI,6,No,4,Referral
+OD1777,2/15/2026,C595,Mumbai,West Bengal,59,Male,Home,Kitchen,Nike Shoes,68968,3,10,Card,3,No,2,Referral
+OD1778,2/16/2026,C464,Kolkata,West Bengal,39,Male,Home,Kitchen,Nike Shoes,15686,3,5,COD,3,Yes,2,Email
+OD1779,2/17/2026,C932,Mumbai,Gujarat,38,Female,Home,Footwear,Prestige Cooker,26290,2,40,UPI,7,No,1,Ads
+OD1780,2/18/2026,C441,Pune,Tamil Nadu,23,Female,Fashion,Mobile,Women Kurti,40366,3,0,NetBanking,7,No,5,Ads
+OD1781,2/19/2026,C599,Jaipur,Karnataka,18,Female,Home,Decor,Prestige Cooker,1392,1,15,Card,6,No,4,Organic
+OD1782,2/20/2026,C756,Pune,Gujarat,22,Male,Electronics,Accessories,Men T-Shirt,20272,1,15,Card,3,Yes,4,Email
+OD1783,2/21/2026,C610,Ahmedabad,Karnataka,58,Female,Fashion,Accessories,Men T-Shirt,4738,1,20,Card,2,No,2,Email
+OD1784,2/22/2026,C426,Mumbai,Rajasthan,29,Male,Electronics,Kitchen,Samsung Phone,21362,3,10,NetBanking,2,Yes,2,Referral
+OD1785,2/23/2026,C316,Ahmedabad,Gujarat,43,Female,Home,Mobile,Men T-Shirt,51914,1,10,NetBanking,7,No,5,Referral
+OD1786,2/24/2026,C400,Bangalore,Tamil Nadu,51,Female,Fashion,Kitchen,Nike Shoes,69467,1,0,COD,6,No,2,Email
+OD1787,2/25/2026,C231,Chennai,Maharashtra,31,Female,Electronics,Decor,HP Laptop,60929,1,30,NetBanking,9,Yes,3,Referral
+OD1788,2/26/2026,C903,Bangalore,Tamil Nadu,43,Female,Home,Accessories,Men T-Shirt,2014,2,15,COD,5,No,3,Email
+OD1789,2/27/2026,C169,Kolkata,Tamil Nadu,44,Male,Electronics,Furniture,Prestige Cooker,15104,3,20,Card,8,No,3,Organic
+OD1790,2/28/2026,C351,Nagpur,Karnataka,26,Female,Electronics,Kitchen,Office Chair,56739,3,0,COD,9,No,3,Referral
+OD1791,3/1/2026,C514,Jaipur,Karnataka,43,Male,Electronics,Clothing,Redmi Phone,6085,3,10,UPI,2,No,5,Email
+OD1792,3/2/2026,C886,Mumbai,Tamil Nadu,39,Female,Home,Furniture,HP Laptop,31685,2,15,Card,2,Yes,4,Referral
+OD1793,3/3/2026,C544,Hyderabad,Tamil Nadu,47,Male,Home,Decor,HP Laptop,27427,3,40,Card,9,No,3,Organic
+OD1794,3/4/2026,C975,Chennai,Tamil Nadu,60,Female,Electronics,Decor,Prestige Cooker,21210,2,20,COD,7,Yes,2,Referral
+OD1795,3/5/2026,C281,Delhi,Karnataka,34,Female,Fashion,Kitchen,Redmi Phone,55461,2,5,Card,7,No,3,Email
+OD1796,3/6/2026,C266,Delhi,Tamil Nadu,43,Male,Fashion,Footwear,Nike Shoes,20538,3,15,NetBanking,6,No,5,Referral
+OD1797,3/7/2026,C190,Delhi,Tamil Nadu,53,Female,Home,Kitchen,HP Laptop,37060,1,20,UPI,7,Yes,2,Referral
+OD1798,3/8/2026,C813,Mumbai,Rajasthan,18,Male,Home,Footwear,Samsung Phone,2076,1,0,COD,4,No,3,Email
+OD1799,3/9/2026,C957,Delhi,Telangana,25,Male,Home,Decor,Prestige Cooker,28849,3,5,COD,8,Yes,4,Ads
+OD1800,3/10/2026,C630,Pune,Maharashtra,52,Male,Home,Mobile,HP Laptop,34297,3,20,Card,9,No,2,Referral
+OD1801,3/11/2026,C138,Chennai,Delhi,32,Male,Home,Decor,Women Kurti,11284,2,20,NetBanking,9,Yes,2,Referral
+OD1802,3/12/2026,C225,Pune,Maharashtra,39,Male,Fashion,Accessories,Redmi Phone,62456,3,10,Card,3,No,4,Organic
+OD1803,3/13/2026,C550,Nagpur,Telangana,31,Female,Home,Furniture,Men T-Shirt,65930,2,30,Card,2,No,2,Ads
+OD1804,3/14/2026,C272,Chennai,Delhi,43,Male,Electronics,Furniture,HP Laptop,17796,3,15,COD,9,No,3,Organic
+OD1805,3/15/2026,C752,Pune,Gujarat,45,Female,Electronics,Laptop,Prestige Cooker,64271,1,10,Card,4,No,2,Email
+OD1806,3/16/2026,C853,Chennai,Tamil Nadu,40,Male,Fashion,Laptop,Men T-Shirt,20080,1,40,UPI,9,Yes,3,Email
+OD1807,3/17/2026,C319,Nagpur,Telangana,31,Male,Electronics,Decor,Samsung Phone,55691,3,5,Card,5,No,4,Organic
+OD1808,3/18/2026,C737,Ahmedabad,Rajasthan,41,Female,Fashion,Accessories,Men T-Shirt,1961,2,30,Card,4,No,1,Referral
+OD1809,3/19/2026,C157,Mumbai,Gujarat,19,Male,Fashion,Laptop,Women Kurti,64672,1,20,COD,6,No,4,Ads
+OD1810,3/20/2026,C759,Mumbai,Tamil Nadu,43,Male,Electronics,Furniture,Nike Shoes,16010,2,10,Card,5,No,3,Organic
+OD1811,3/21/2026,C575,Delhi,Karnataka,31,Female,Home,Kitchen,HP Laptop,49164,3,30,NetBanking,5,No,5,Organic
+OD1812,3/22/2026,C555,Bangalore,West Bengal,24,Male,Electronics,Mobile,Boat Earphones,44913,3,40,COD,9,No,4,Email
+OD1813,3/23/2026,C928,Delhi,Telangana,20,Male,Electronics,Mobile,Boat Earphones,13885,1,15,Card,7,Yes,5,Referral
+OD1814,3/24/2026,C994,Kolkata,Karnataka,40,Male,Fashion,Accessories,Men T-Shirt,54959,3,40,UPI,9,No,5,Ads
+OD1815,3/25/2026,C460,Pune,Telangana,60,Female,Electronics,Decor,Wall Clock,6720,1,5,UPI,4,No,3,Organic
+OD1816,3/26/2026,C100,Chennai,Rajasthan,35,Female,Fashion,Laptop,Redmi Phone,23973,2,0,COD,6,No,3,Ads
+OD1817,3/27/2026,C486,Bangalore,Telangana,55,Female,Home,Kitchen,Boat Earphones,21544,1,10,COD,2,Yes,1,Ads
+OD1818,3/28/2026,C447,Nagpur,Karnataka,52,Male,Home,Mobile,Wall Clock,5421,1,5,Card,8,No,2,Organic
+OD1819,3/29/2026,C289,Kolkata,Rajasthan,32,Female,Home,Mobile,Boat Earphones,23205,2,0,NetBanking,7,No,4,Ads
+OD1820,3/30/2026,C604,Nagpur,Delhi,42,Male,Electronics,Clothing,Wall Clock,43270,1,10,Card,4,No,3,Email
+OD1821,3/31/2026,C290,Mumbai,Maharashtra,54,Male,Fashion,Decor,Redmi Phone,52834,1,5,UPI,2,No,4,Referral
+OD1822,4/1/2026,C607,Mumbai,Tamil Nadu,45,Female,Home,Clothing,Office Chair,53448,3,40,NetBanking,4,No,5,Referral
+OD1823,4/2/2026,C468,Delhi,Telangana,27,Male,Fashion,Furniture,Boat Earphones,15739,2,5,NetBanking,7,No,2,Referral
+OD1824,4/3/2026,C508,Pune,Tamil Nadu,56,Female,Fashion,Mobile,Women Kurti,3215,1,30,NetBanking,2,No,1,Email
+OD1825,4/4/2026,C923,Bangalore,West Bengal,34,Male,Home,Accessories,HP Laptop,17073,2,40,Card,7,No,4,Email
+OD1826,4/5/2026,C216,Jaipur,Karnataka,56,Male,Home,Footwear,Wall Clock,44565,2,10,UPI,4,No,2,Email
+OD1827,4/6/2026,C233,Kolkata,Tamil Nadu,39,Female,Fashion,Footwear,HP Laptop,62325,1,5,COD,5,Yes,1,Referral
+OD1828,4/7/2026,C157,Kolkata,Karnataka,43,Male,Home,Kitchen,Prestige Cooker,20712,3,20,Card,8,No,4,Ads
+OD1829,4/8/2026,C655,Delhi,Tamil Nadu,42,Male,Fashion,Mobile,Prestige Cooker,66650,2,10,COD,3,Yes,2,Email
+OD1830,4/9/2026,C784,Mumbai,Maharashtra,34,Male,Fashion,Mobile,Redmi Phone,51405,1,5,NetBanking,8,No,3,Organic
+OD1831,4/10/2026,C771,Delhi,Maharashtra,30,Male,Home,Furniture,Wall Clock,962,2,30,NetBanking,5,No,4,Email
+OD1832,4/11/2026,C272,Chennai,Rajasthan,37,Female,Electronics,Mobile,Samsung Phone,32472,3,0,Card,7,No,2,Organic
+OD1833,4/12/2026,C928,Bangalore,Maharashtra,42,Female,Home,Accessories,Prestige Cooker,21150,3,0,UPI,8,Yes,1,Referral
+OD1834,4/13/2026,C914,Pune,Rajasthan,21,Male,Electronics,Clothing,Redmi Phone,69193,3,20,NetBanking,7,No,2,Organic
+OD1835,4/14/2026,C248,Ahmedabad,Maharashtra,27,Female,Fashion,Mobile,Prestige Cooker,20507,1,10,COD,7,No,3,Email
+OD1836,4/15/2026,C179,Hyderabad,Maharashtra,20,Male,Fashion,Mobile,Prestige Cooker,38684,1,30,COD,2,No,4,Email
+OD1837,4/16/2026,C985,Hyderabad,Maharashtra,58,Female,Electronics,Furniture,Samsung Phone,35479,3,5,Card,6,No,4,Ads
+OD1838,4/17/2026,C312,Delhi,Karnataka,35,Female,Fashion,Decor,Boat Earphones,23003,1,5,COD,7,No,4,Referral
+OD1839,4/18/2026,C302,Chennai,Telangana,53,Female,Electronics,Laptop,Men T-Shirt,55469,3,0,UPI,8,No,3,Organic
+OD1840,4/19/2026,C863,Bangalore,Rajasthan,39,Male,Electronics,Decor,Office Chair,17265,1,30,NetBanking,8,No,1,Referral
+OD1841,4/20/2026,C328,Jaipur,Tamil Nadu,51,Female,Fashion,Furniture,Prestige Cooker,12194,3,40,COD,8,No,4,Email
+OD1842,4/21/2026,C775,Hyderabad,Maharashtra,25,Male,Electronics,Decor,Prestige Cooker,18295,2,20,COD,5,No,1,Ads
+OD1843,4/22/2026,C326,Bangalore,Karnataka,57,Male,Home,Furniture,Women Kurti,43042,3,0,NetBanking,3,No,2,Email
+OD1844,4/23/2026,C758,Pune,Karnataka,36,Male,Home,Accessories,Office Chair,15058,3,0,Card,7,Yes,1,Email
+OD1845,4/24/2026,C631,Nagpur,Karnataka,59,Female,Fashion,Kitchen,Samsung Phone,33638,1,20,COD,9,No,1,Email
+OD1846,4/25/2026,C540,Chennai,Rajasthan,58,Female,Fashion,Mobile,HP Laptop,9301,1,10,Card,7,No,4,Organic
+OD1847,4/26/2026,C501,Mumbai,Telangana,54,Female,Electronics,Furniture,Wall Clock,40704,1,5,Card,7,No,5,Email
+OD1848,4/27/2026,C146,Bangalore,Rajasthan,23,Male,Electronics,Furniture,Prestige Cooker,34658,1,10,COD,9,No,5,Referral
+OD1849,4/28/2026,C332,Pune,Tamil Nadu,43,Female,Electronics,Laptop,Men T-Shirt,12015,1,30,UPI,2,No,3,Referral
+OD1850,4/29/2026,C404,Jaipur,Telangana,51,Male,Electronics,Furniture,Wall Clock,50991,1,40,Card,7,No,3,Ads
+OD1851,4/30/2026,C625,Ahmedabad,Delhi,23,Female,Home,Footwear,Office Chair,29585,2,15,COD,5,No,5,Referral
+OD1852,5/1/2026,C242,Mumbai,Gujarat,54,Female,Home,Kitchen,Wall Clock,30979,3,15,Card,4,No,2,Email
+OD1853,5/2/2026,C514,Ahmedabad,Karnataka,50,Female,Fashion,Mobile,Boat Earphones,52590,3,15,NetBanking,6,No,4,Email
+OD1854,5/3/2026,C612,Jaipur,Rajasthan,39,Male,Electronics,Mobile,Prestige Cooker,48265,3,20,UPI,8,No,4,Referral
+OD1855,5/4/2026,C472,Pune,Delhi,38,Female,Electronics,Laptop,Wall Clock,39236,2,0,UPI,7,No,2,Ads
+OD1856,5/5/2026,C665,Hyderabad,West Bengal,23,Male,Fashion,Accessories,HP Laptop,9764,3,40,NetBanking,2,Yes,2,Ads
+OD1857,5/6/2026,C985,Ahmedabad,Rajasthan,23,Male,Electronics,Mobile,HP Laptop,15885,2,10,NetBanking,5,No,5,Referral
+OD1858,5/7/2026,C358,Mumbai,Maharashtra,21,Male,Electronics,Footwear,Prestige Cooker,37924,2,5,Card,7,No,3,Organic
+OD1859,5/8/2026,C755,Delhi,Gujarat,47,Female,Electronics,Mobile,Nike Shoes,43753,2,15,NetBanking,9,No,2,Organic
+OD1860,5/9/2026,C570,Kolkata,Maharashtra,28,Male,Electronics,Footwear,HP Laptop,54133,3,10,UPI,2,Yes,3,Organic
+OD1861,5/10/2026,C111,Bangalore,Telangana,47,Female,Electronics,Kitchen,Wall Clock,48161,2,15,NetBanking,4,No,1,Organic
+OD1862,5/11/2026,C429,Hyderabad,Gujarat,48,Female,Fashion,Kitchen,Redmi Phone,10642,3,40,COD,3,No,4,Referral
+OD1863,5/12/2026,C835,Ahmedabad,Rajasthan,41,Male,Electronics,Clothing,HP Laptop,16080,3,15,COD,7,No,5,Ads
+OD1864,5/13/2026,C883,Nagpur,Tamil Nadu,26,Male,Fashion,Clothing,Office Chair,67942,1,5,Card,5,No,4,Email
+OD1865,5/14/2026,C457,Bangalore,Delhi,20,Female,Electronics,Footwear,Nike Shoes,29923,1,30,UPI,2,No,5,Email
+OD1866,5/15/2026,C507,Delhi,Tamil Nadu,48,Male,Home,Accessories,Wall Clock,42483,2,30,COD,9,No,1,Referral
+OD1867,5/16/2026,C767,Jaipur,Rajasthan,57,Female,Home,Mobile,Samsung Phone,42004,2,40,NetBanking,2,No,4,Email
+OD1868,5/17/2026,C472,Kolkata,Telangana,54,Female,Home,Furniture,Women Kurti,63198,3,30,COD,7,No,1,Organic
+OD1869,5/18/2026,C107,Pune,Maharashtra,53,Female,Home,Mobile,Samsung Phone,27456,2,20,COD,2,No,5,Ads
+OD1870,5/19/2026,C221,Delhi,Gujarat,41,Male,Fashion,Clothing,Boat Earphones,25963,2,0,Card,3,No,2,Referral
+OD1871,5/20/2026,C447,Delhi,Tamil Nadu,48,Male,Fashion,Decor,Women Kurti,24148,3,20,NetBanking,2,Yes,4,Ads
+OD1872,5/21/2026,C775,Jaipur,Rajasthan,23,Female,Electronics,Furniture,Boat Earphones,42564,2,10,NetBanking,8,No,1,Referral
+OD1873,5/22/2026,C189,Chennai,Tamil Nadu,19,Female,Home,Footwear,Women Kurti,35257,2,20,NetBanking,6,No,4,Referral
+OD1874,5/23/2026,C747,Jaipur,Rajasthan,37,Male,Fashion,Furniture,Women Kurti,6095,3,10,Card,8,Yes,4,Referral
+OD1875,5/24/2026,C797,Chennai,Maharashtra,45,Female,Electronics,Decor,Redmi Phone,16873,3,10,NetBanking,6,No,4,Referral
+OD1876,5/25/2026,C415,Chennai,Gujarat,28,Male,Electronics,Mobile,Men T-Shirt,4274,1,0,NetBanking,2,No,3,Ads
+OD1877,5/26/2026,C277,Hyderabad,Delhi,21,Male,Fashion,Mobile,Office Chair,27887,3,5,COD,9,No,1,Email
+OD1878,5/27/2026,C639,Hyderabad,Maharashtra,32,Male,Home,Accessories,Samsung Phone,21528,1,40,COD,9,Yes,1,Referral
+OD1879,5/28/2026,C831,Mumbai,Tamil Nadu,23,Female,Electronics,Laptop,HP Laptop,54138,2,0,NetBanking,7,No,4,Organic
+OD1880,5/29/2026,C968,Ahmedabad,Delhi,47,Male,Home,Furniture,Wall Clock,15144,3,40,UPI,9,Yes,2,Referral
+OD1881,5/30/2026,C140,Ahmedabad,Rajasthan,55,Female,Home,Clothing,Nike Shoes,31604,3,30,UPI,6,Yes,4,Ads
+OD1882,5/31/2026,C839,Pune,Delhi,19,Female,Home,Decor,Office Chair,14167,3,30,NetBanking,5,No,3,Referral
+OD1883,6/1/2026,C803,Ahmedabad,Rajasthan,32,Male,Electronics,Decor,Boat Earphones,16459,2,20,UPI,6,No,5,Organic
+OD1884,6/2/2026,C601,Hyderabad,Maharashtra,28,Female,Home,Decor,Redmi Phone,11856,1,10,Card,8,No,3,Ads
+OD1885,6/3/2026,C244,Mumbai,Tamil Nadu,25,Male,Electronics,Clothing,Boat Earphones,65103,2,15,COD,2,Yes,2,Referral
+OD1886,6/4/2026,C300,Mumbai,Telangana,43,Male,Home,Laptop,Men T-Shirt,52295,2,15,Card,7,No,4,Organic
+OD1887,6/5/2026,C823,Chennai,Tamil Nadu,22,Female,Electronics,Mobile,Nike Shoes,16303,3,40,COD,4,Yes,1,Ads
+OD1888,6/6/2026,C560,Jaipur,Rajasthan,23,Female,Home,Accessories,Redmi Phone,15125,1,10,UPI,7,No,4,Referral
+OD1889,6/7/2026,C831,Pune,Karnataka,43,Female,Fashion,Accessories,Boat Earphones,28631,2,40,UPI,7,No,2,Organic
+OD1890,6/8/2026,C851,Chennai,Gujarat,21,Female,Home,Clothing,Men T-Shirt,8450,3,0,NetBanking,7,No,1,Ads
+OD1891,6/9/2026,C657,Jaipur,West Bengal,36,Male,Home,Accessories,Wall Clock,6948,2,5,UPI,5,Yes,3,Referral
+OD1892,6/10/2026,C646,Ahmedabad,Telangana,37,Male,Electronics,Decor,Wall Clock,19564,2,0,UPI,3,No,5,Ads
+OD1893,6/11/2026,C352,Chennai,Delhi,50,Male,Electronics,Kitchen,Boat Earphones,9629,3,10,NetBanking,8,No,5,Organic
+OD1894,6/12/2026,C489,Bangalore,Telangana,37,Female,Home,Laptop,Office Chair,62786,3,10,NetBanking,2,Yes,4,Referral
+OD1895,6/13/2026,C693,Ahmedabad,Gujarat,29,Female,Fashion,Mobile,Nike Shoes,52201,1,5,COD,3,Yes,3,Referral
+OD1896,6/14/2026,C982,Jaipur,Delhi,18,Female,Fashion,Kitchen,Prestige Cooker,37492,2,40,UPI,4,No,2,Referral
+OD1897,6/15/2026,C355,Pune,Gujarat,43,Male,Electronics,Laptop,Office Chair,32374,3,20,COD,3,No,5,Organic
+OD1898,6/16/2026,C808,Jaipur,Delhi,31,Female,Fashion,Footwear,Wall Clock,6553,3,20,COD,2,No,3,Email
+OD1899,6/17/2026,C914,Chennai,Telangana,55,Female,Home,Furniture,Nike Shoes,49016,1,5,Card,8,No,4,Referral
+OD1900,6/18/2026,C549,Chennai,Delhi,54,Female,Electronics,Clothing,Men T-Shirt,30169,1,20,UPI,8,No,1,Organic
+OD1901,6/19/2026,C109,Delhi,Delhi,28,Female,Home,Decor,Redmi Phone,49611,3,15,UPI,2,No,4,Ads
+OD1902,6/20/2026,C923,Pune,Karnataka,53,Male,Electronics,Accessories,Women Kurti,28806,1,20,Card,4,Yes,4,Ads
+OD1903,6/21/2026,C897,Nagpur,Tamil Nadu,30,Male,Electronics,Footwear,Boat Earphones,67586,3,20,COD,2,Yes,3,Organic
+OD1904,6/22/2026,C341,Ahmedabad,Tamil Nadu,60,Male,Electronics,Accessories,Samsung Phone,48421,2,20,UPI,4,No,5,Email
+OD1905,6/23/2026,C350,Mumbai,West Bengal,20,Female,Electronics,Kitchen,Nike Shoes,63579,1,15,COD,4,No,3,Organic
+OD1906,6/24/2026,C976,Pune,West Bengal,50,Female,Fashion,Mobile,HP Laptop,26811,2,40,Card,2,No,1,Ads
+OD1907,6/25/2026,C104,Mumbai,Rajasthan,23,Male,Home,Mobile,Men T-Shirt,67484,2,20,NetBanking,6,No,3,Ads
+OD1908,6/26/2026,C218,Pune,Rajasthan,27,Male,Home,Mobile,Prestige Cooker,58107,2,30,COD,8,No,2,Referral
+OD1909,6/27/2026,C900,Pune,Rajasthan,22,Male,Home,Decor,Women Kurti,40776,3,15,UPI,4,No,4,Email
+OD1910,6/28/2026,C473,Jaipur,Karnataka,40,Female,Electronics,Accessories,HP Laptop,32050,2,5,NetBanking,2,Yes,5,Organic
+OD1911,6/29/2026,C164,Pune,West Bengal,27,Male,Fashion,Footwear,Prestige Cooker,57096,2,0,COD,9,No,1,Ads
+OD1912,6/30/2026,C245,Delhi,Gujarat,19,Male,Home,Mobile,Samsung Phone,45711,2,5,COD,6,No,4,Ads
+OD1913,7/1/2026,C323,Nagpur,Rajasthan,30,Female,Fashion,Footwear,Wall Clock,10136,3,0,NetBanking,8,No,3,Ads
+OD1914,7/2/2026,C338,Chennai,Rajasthan,57,Female,Electronics,Accessories,Office Chair,43757,2,5,NetBanking,4,No,2,Organic
+OD1915,7/3/2026,C276,Kolkata,Telangana,19,Female,Home,Decor,Boat Earphones,36192,2,30,NetBanking,8,No,3,Organic
+OD1916,7/4/2026,C878,Mumbai,Maharashtra,37,Female,Fashion,Kitchen,Redmi Phone,10323,1,0,UPI,6,Yes,4,Email
+OD1917,7/5/2026,C952,Chennai,Gujarat,18,Male,Electronics,Decor,Prestige Cooker,27449,3,0,UPI,8,Yes,1,Referral
+OD1918,7/6/2026,C381,Kolkata,Rajasthan,54,Male,Fashion,Footwear,Women Kurti,23987,2,10,COD,5,No,5,Referral
+OD1919,7/7/2026,C162,Nagpur,Rajasthan,26,Female,Home,Decor,Nike Shoes,714,1,0,COD,7,No,4,Referral
+OD1920,7/8/2026,C316,Nagpur,Rajasthan,34,Female,Home,Decor,Wall Clock,12022,3,0,Card,5,No,1,Ads
+OD1921,7/9/2026,C953,Mumbai,Maharashtra,26,Female,Electronics,Kitchen,Nike Shoes,69188,3,10,UPI,6,Yes,4,Referral
+OD1922,7/10/2026,C926,Mumbai,Maharashtra,28,Female,Electronics,Accessories,Women Kurti,24333,3,20,COD,4,Yes,2,Ads
+OD1923,7/11/2026,C894,Nagpur,Karnataka,32,Male,Electronics,Accessories,Nike Shoes,34973,3,20,NetBanking,2,No,3,Email
+OD1924,7/12/2026,C788,Kolkata,Gujarat,41,Female,Fashion,Clothing,Prestige Cooker,43565,3,10,NetBanking,3,Yes,5,Ads
+OD1925,7/13/2026,C560,Pune,Karnataka,55,Female,Fashion,Decor,Men T-Shirt,10899,3,15,UPI,2,Yes,1,Email
+OD1926,7/14/2026,C709,Ahmedabad,Delhi,52,Male,Fashion,Accessories,Nike Shoes,10844,2,0,NetBanking,8,No,5,Email
+OD1927,7/15/2026,C204,Bangalore,Maharashtra,47,Female,Electronics,Accessories,Office Chair,34395,2,0,Card,3,No,5,Referral
+OD1928,7/16/2026,C198,Chennai,Telangana,48,Male,Home,Laptop,Samsung Phone,29398,2,10,COD,3,No,5,Referral
+OD1929,7/17/2026,C610,Jaipur,West Bengal,22,Female,Home,Mobile,Redmi Phone,28728,2,10,COD,8,Yes,1,Ads
+OD1930,7/18/2026,C484,Chennai,Telangana,31,Male,Fashion,Clothing,Prestige Cooker,6082,1,15,COD,8,No,1,Organic
+OD1931,7/19/2026,C504,Jaipur,West Bengal,28,Male,Fashion,Furniture,HP Laptop,5396,2,30,UPI,4,No,5,Referral
+OD1932,7/20/2026,C922,Kolkata,Maharashtra,26,Male,Home,Clothing,Women Kurti,5066,3,20,NetBanking,6,No,3,Referral
+OD1933,7/21/2026,C617,Jaipur,Maharashtra,51,Female,Home,Clothing,Wall Clock,13828,2,5,Card,9,No,4,Organic
+OD1934,7/22/2026,C575,Mumbai,Maharashtra,29,Male,Fashion,Furniture,Prestige Cooker,727,2,30,UPI,2,No,5,Organic
+OD1935,7/23/2026,C808,Ahmedabad,Karnataka,52,Female,Fashion,Laptop,Men T-Shirt,37551,3,40,COD,6,No,2,Referral
+OD1936,7/24/2026,C962,Ahmedabad,Gujarat,52,Female,Home,Decor,Wall Clock,58268,2,20,Card,5,No,5,Organic
+OD1937,7/25/2026,C744,Mumbai,West Bengal,18,Female,Electronics,Kitchen,Office Chair,46531,2,0,COD,4,No,1,Ads
+OD1938,7/26/2026,C969,Delhi,Gujarat,57,Female,Fashion,Accessories,Women Kurti,34185,2,40,COD,4,No,4,Email
+OD1939,7/27/2026,C870,Kolkata,Karnataka,39,Female,Home,Mobile,Wall Clock,63760,1,30,UPI,9,No,2,Email
+OD1940,7/28/2026,C536,Delhi,Karnataka,46,Male,Home,Footwear,Nike Shoes,3308,2,10,COD,5,No,4,Referral
+OD1941,7/29/2026,C122,Delhi,Tamil Nadu,25,Female,Home,Decor,Prestige Cooker,42284,3,15,Card,2,Yes,4,Referral
+OD1942,7/30/2026,C664,Chennai,Telangana,28,Female,Home,Furniture,Samsung Phone,37046,3,20,COD,7,No,2,Ads
+OD1943,7/31/2026,C776,Nagpur,Telangana,58,Male,Electronics,Kitchen,Women Kurti,43317,2,15,NetBanking,5,No,5,Organic
+OD1944,8/1/2026,C813,Chennai,Delhi,54,Female,Home,Decor,Boat Earphones,66180,2,40,COD,2,No,5,Referral
+OD1945,8/2/2026,C557,Nagpur,Rajasthan,31,Female,Fashion,Furniture,Office Chair,37832,2,20,UPI,3,No,5,Email
+OD1946,8/3/2026,C182,Bangalore,Karnataka,47,Female,Electronics,Accessories,Redmi Phone,17075,3,30,Card,8,No,3,Ads
+OD1947,8/4/2026,C244,Jaipur,West Bengal,52,Male,Home,Laptop,Women Kurti,39904,3,0,UPI,4,No,5,Ads
+OD1948,8/5/2026,C184,Nagpur,Tamil Nadu,38,Female,Electronics,Decor,Men T-Shirt,32100,1,5,NetBanking,2,No,2,Organic
+OD1949,8/6/2026,C177,Mumbai,Tamil Nadu,54,Male,Fashion,Furniture,Prestige Cooker,68445,1,15,COD,6,No,3,Referral
+OD1950,8/7/2026,C556,Chennai,Rajasthan,22,Male,Home,Accessories,Nike Shoes,67855,1,15,UPI,9,No,5,Referral
+OD1951,8/8/2026,C977,Kolkata,Gujarat,36,Male,Fashion,Accessories,Redmi Phone,52615,3,5,UPI,8,No,3,Ads
+OD1952,8/9/2026,C100,Jaipur,Rajasthan,31,Male,Home,Laptop,Redmi Phone,63393,1,15,UPI,6,No,2,Email
+OD1953,8/10/2026,C150,Bangalore,Rajasthan,43,Male,Home,Clothing,Office Chair,35134,2,15,UPI,8,No,5,Referral
+OD1954,8/11/2026,C784,Nagpur,Rajasthan,21,Female,Home,Decor,Wall Clock,7964,2,20,NetBanking,4,No,1,Email
+OD1955,8/12/2026,C816,Bangalore,Telangana,42,Male,Home,Decor,Men T-Shirt,57253,3,20,NetBanking,5,Yes,2,Ads
+OD1956,8/13/2026,C871,Kolkata,Karnataka,59,Female,Home,Clothing,Wall Clock,39370,1,5,COD,7,No,4,Referral
+OD1957,8/14/2026,C545,Delhi,Delhi,42,Female,Electronics,Mobile,Nike Shoes,63373,2,40,COD,5,Yes,4,Email
+OD1958,8/15/2026,C548,Ahmedabad,Karnataka,35,Female,Home,Mobile,Redmi Phone,30010,3,0,Card,2,No,2,Ads
+OD1959,8/16/2026,C980,Kolkata,Gujarat,57,Male,Home,Clothing,Men T-Shirt,49320,1,30,NetBanking,9,Yes,4,Email
+OD1960,8/17/2026,C587,Hyderabad,Maharashtra,25,Male,Electronics,Kitchen,Men T-Shirt,66275,2,30,UPI,5,No,2,Referral
+OD1961,8/18/2026,C899,Kolkata,Rajasthan,56,Female,Electronics,Footwear,HP Laptop,44961,1,40,UPI,4,Yes,1,Organic
+OD1962,8/19/2026,C133,Bangalore,Karnataka,57,Female,Electronics,Accessories,Prestige Cooker,61881,3,15,Card,9,No,2,Email
+OD1963,8/20/2026,C447,Mumbai,Gujarat,31,Male,Electronics,Footwear,Redmi Phone,33073,1,0,UPI,2,No,5,Organic
+OD1964,8/21/2026,C194,Chennai,Maharashtra,49,Male,Electronics,Accessories,Redmi Phone,42409,3,5,Card,3,No,5,Referral
+OD1965,8/22/2026,C171,Mumbai,Maharashtra,55,Female,Electronics,Clothing,Men T-Shirt,25685,1,40,COD,5,No,3,Organic
+OD1966,8/23/2026,C650,Bangalore,Rajasthan,50,Female,Home,Mobile,Wall Clock,23312,2,5,NetBanking,5,No,4,Ads
+OD1967,8/24/2026,C253,Chennai,Delhi,40,Male,Home,Kitchen,Redmi Phone,19056,3,20,Card,7,No,4,Organic
+OD1968,8/25/2026,C349,Hyderabad,West Bengal,32,Male,Fashion,Mobile,Men T-Shirt,28559,3,15,UPI,2,No,2,Email
+OD1969,8/26/2026,C773,Ahmedabad,Telangana,50,Female,Home,Footwear,Redmi Phone,59365,3,10,Card,6,No,4,Email
+OD1970,8/27/2026,C537,Jaipur,Karnataka,42,Female,Home,Mobile,Men T-Shirt,6579,1,5,COD,5,No,5,Organic
+OD1971,8/28/2026,C217,Bangalore,Maharashtra,34,Male,Electronics,Clothing,HP Laptop,14353,1,40,UPI,4,Yes,1,Ads
+OD1972,8/29/2026,C870,Nagpur,Karnataka,50,Male,Electronics,Kitchen,Prestige Cooker,68194,2,15,COD,5,Yes,2,Referral
+OD1973,8/30/2026,C990,Bangalore,West Bengal,19,Female,Home,Footwear,Men T-Shirt,27524,3,0,COD,7,No,4,Organic
+OD1974,8/31/2026,C405,Bangalore,Telangana,31,Female,Fashion,Kitchen,Redmi Phone,53481,3,40,Card,3,No,5,Email
+OD1975,9/1/2026,C367,Chennai,West Bengal,57,Female,Electronics,Decor,Nike Shoes,41580,1,20,COD,7,No,3,Email
+OD1976,9/2/2026,C153,Pune,Telangana,57,Male,Home,Accessories,Prestige Cooker,4867,1,30,UPI,5,No,4,Organic
+OD1977,9/3/2026,C335,Kolkata,Tamil Nadu,56,Male,Home,Mobile,HP Laptop,27593,2,0,COD,9,Yes,1,Organic
+OD1978,9/4/2026,C488,Pune,Telangana,23,Female,Fashion,Kitchen,Men T-Shirt,46539,2,5,COD,6,Yes,1,Organic
+OD1979,9/5/2026,C833,Hyderabad,Rajasthan,23,Male,Fashion,Laptop,Nike Shoes,67265,1,5,Card,8,No,4,Referral
+OD1980,9/6/2026,C862,Nagpur,Delhi,20,Female,Electronics,Decor,Men T-Shirt,24490,3,0,COD,5,No,4,Email
+OD1981,9/7/2026,C924,Ahmedabad,West Bengal,24,Male,Fashion,Mobile,Wall Clock,1800,2,5,NetBanking,2,Yes,5,Email
+OD1982,9/8/2026,C500,Delhi,Maharashtra,25,Male,Home,Accessories,Redmi Phone,29109,1,40,Card,5,No,4,Email
+OD1983,9/9/2026,C723,Hyderabad,Rajasthan,59,Male,Home,Kitchen,Women Kurti,35177,1,15,Card,6,No,3,Referral
+OD1984,9/10/2026,C866,Delhi,Tamil Nadu,32,Female,Fashion,Footwear,Office Chair,24965,3,5,UPI,2,No,5,Ads
+OD1985,9/11/2026,C402,Delhi,Delhi,46,Female,Fashion,Accessories,Samsung Phone,41374,1,20,UPI,4,No,2,Email
+OD1986,9/12/2026,C306,Ahmedabad,Karnataka,50,Male,Fashion,Laptop,Wall Clock,26580,1,15,UPI,9,No,3,Email
+OD1987,9/13/2026,C328,Mumbai,Rajasthan,47,Female,Fashion,Kitchen,Nike Shoes,24853,2,40,UPI,2,No,5,Ads
+OD1988,9/14/2026,C952,Pune,West Bengal,56,Female,Electronics,Furniture,Wall Clock,18799,1,10,NetBanking,7,No,5,Referral
+OD1989,9/15/2026,C677,Bangalore,Gujarat,44,Male,Fashion,Furniture,Boat Earphones,64883,1,5,Card,3,No,1,Ads
+OD1990,9/16/2026,C174,Jaipur,Gujarat,53,Male,Electronics,Clothing,Men T-Shirt,61391,2,5,COD,7,No,5,Ads
+OD1991,9/17/2026,C534,Delhi,Maharashtra,46,Female,Home,Mobile,Men T-Shirt,36024,3,20,UPI,8,Yes,3,Ads
+OD1992,9/18/2026,C202,Nagpur,Telangana,55,Male,Fashion,Footwear,Samsung Phone,27031,3,40,UPI,2,No,4,Ads
+OD1993,9/19/2026,C521,Hyderabad,Maharashtra,50,Female,Electronics,Clothing,Samsung Phone,6963,2,20,UPI,4,No,3,Referral
+OD1994,9/20/2026,C803,Mumbai,Gujarat,54,Female,Fashion,Kitchen,Boat Earphones,17061,2,30,COD,5,No,2,Referral
+OD1995,9/21/2026,C863,Delhi,Karnataka,44,Female,Home,Furniture,Redmi Phone,56013,3,40,UPI,9,Yes,5,Ads
+OD1996,9/22/2026,C837,Mumbai,Tamil Nadu,50,Female,Home,Furniture,Office Chair,33133,3,0,COD,2,No,5,Organic
+OD1997,9/23/2026,C905,Mumbai,Tamil Nadu,21,Female,Home,Furniture,Women Kurti,559,3,0,Card,7,No,5,Organic
+OD1998,9/24/2026,C405,Delhi,West Bengal,39,Female,Fashion,Kitchen,Women Kurti,9768,3,0,Card,2,No,5,Organic
+OD1999,9/25/2026,C197,Chennai,Tamil Nadu,19,Male,Fashion,Furniture,HP Laptop,63642,3,20,Card,2,No,1,Organic
+OD2000,9/26/2026,C949,Kolkata,West Bengal,27,Female,Electronics,Accessories,HP Laptop,23564,2,0,NetBanking,2,No,1,Email
