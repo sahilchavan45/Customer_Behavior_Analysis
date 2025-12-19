@@ -94,7 +94,7 @@ Higher-rated products sell better
 
 📊 Power BI Dashboard Highlights
 
-Templete 1 : ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%201.png)
+Templete 1 : ![Dashboard Preview](https://github.com/sahilchavan45/Customer_Behavior_Analysis/blob/main/Screenshot%202025-12-19%20133002.png)
 
 Revenue by Age Group
 
